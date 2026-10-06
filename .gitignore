@@ -1,0 +1,18 @@
+# Basemap layers downloaded on first run (NOAA ETOPO, Natural Earth,
+# WorldClim).
+data/map_data_cache/
+
+# Koppen-Geiger climate grids, about 50 MB. Freely available under CC BY 4.0;
+# run 00_fetch_koppen_geiger.R once to download and verify them.
+data/koppen_geiger/
+
+# R and macOS
+.Rhistory
+.Rapp.history
+.RData
+.Rproj.user/
+.DS_Store
+.vscode/
+
+# Old scripts
+OLD_SCRIPTS/

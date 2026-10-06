@@ -1,0 +1,575 @@
+site_name,sample_number,country,latitude,longitude,described_chronology,stratigraphy,age_estimate,archbot_material,kg_zone_recorded,species_archaeobotany,presence_absence,accepted_name_short,family,plant_group,top_common_name
+Kgaswe,KGA_1,Botswana,-22.52,27.0414,Early Iron Age,,990-1010 AD,Macrofossil,BSh,Millet_cf,1,Poaceae,Poaceae,Other (mixed flora),
+Kgaswe,KGA_1,Botswana,-22.52,27.0414,Early Iron Age,,990-1010 AD,Macrofossil,BSh,Sorghum,1,Sorghum,Poaceae,Introduced from wider Africa,Sorghum
+Magagarape,MGG_1,Botswana,-24.467,25.433,Early Iron Age,,774-793 AD,Macrofossil,BSh,Sorghum,1,Sorghum,Poaceae,Introduced from wider Africa,Sorghum
+Matlapaneng,MTP_1,Botswana,-19.98,23.539,Early Iron Age,,,Macrofossil,BSh,Pennisetum_glaucum,1,Cenchrus americanus,Poaceae,Introduced from wider Africa,Pearl millet
+Matlapaneng,MTP_2,Botswana,-19.98,23.539,Early Iron Age,,,Macrofossil,BSh,Adiagnostic,1,Adiagnostic,,Other (mixed flora),
+Matlapaneng,MTP_3,Botswana,-19.98,23.539,Early Iron Age,,,Macrofossil,BSh,Adiagnostic,1,Adiagnostic,,Other (mixed flora),
+Matlapaneng,MTP_3,Botswana,-19.98,23.539,Early Iron Age,,,Macrofossil,BSh,Cowpea,1,Vigna unguiculata,Fabaceae,Introduced from wider Africa,Cowpea
+Matlapaneng,MTP_3,Botswana,-19.98,23.539,Early Iron Age,,,Macrofossil,BSh,Cucurbit_cf,1,Cucurbita,Cucurbitaceae,Other (mixed flora),
+Matlapaneng,MTP_3,Botswana,-19.98,23.539,Early Iron Age,,,Macrofossil,BSh,Grewia,1,Grewia,Malvaceae,Native subsistence plant,Raisin bush
+Matlapaneng,MTP_3,Botswana,-19.98,23.539,Early Iron Age,,,Macrofossil,BSh,Millet_cf,1,Poaceae,Poaceae,Other (mixed flora),
+Matlapaneng,MTP_3,Botswana,-19.98,23.539,Early Iron Age,,,Macrofossil,BSh,Sorghum,1,Sorghum,Poaceae,Introduced from wider Africa,Sorghum
+Maunatlala,MAU_1,Botswana,-22.773,28.075,Early Iron Age,,,Macrofossil,BWh,Cucurbit_cf,1,Cucurbita,Cucurbitaceae,Other (mixed flora),
+Sehonghong,SEH_1,Lesotho,-29.7667,28.7833,Later Stone Age,,,Macrofossil,BSk,Aloe_saponaria,1,Aloe microstigma,Asphodelaceae,Other (mixed flora),
+Sehonghong,SEH_1,Lesotho,-29.7667,28.7833,Later Stone Age,,,Macrofossil,BSk,Cymbopogon,1,Cymbopogon,Poaceae,Other (mixed flora),
+Sehonghong,SEH_1,Lesotho,-29.7667,28.7833,Later Stone Age,,,Macrofossil,BSk,Cyperus_usitatus,1,Cyperus usitatus,Cyperaceae,Other (mixed flora),
+Sehonghong,SEH_1,Lesotho,-29.7667,28.7833,Later Stone Age,,,Macrofossil,BSk,Diospyros,1,Diospyros,Ebenaceae,Native subsistence plant,Jackal-berry
+Sehonghong,SEH_1,Lesotho,-29.7667,28.7833,Later Stone Age,,,Macrofossil,BSk,Helichrysum_cf_kuntzei,1,Helichrysum melanacme,Asteraceae,Other (mixed flora),
+Sehonghong,SEH_1,Lesotho,-29.7667,28.7833,Later Stone Age,,,Macrofossil,BSk,Hesperantha_cf,1,Hesperantha,Iridaceae,Other (mixed flora),
+Sehonghong,SEH_1,Lesotho,-29.7667,28.7833,Later Stone Age,,,Macrofossil,BSk,Juncus,1,Juncus,Juncaceae,Other (mixed flora),
+Sehonghong,SEH_1,Lesotho,-29.7667,28.7833,Later Stone Age,,,Macrofossil,BSk,Kniphofia,1,Kniphofia,Asphodelaceae,Other (mixed flora),
+Sehonghong,SEH_1,Lesotho,-29.7667,28.7833,Later Stone Age,,,Macrofossil,BSk,Leucosidea_sericea,1,Leucosidea sericea,Rosaceae,Other (mixed flora),
+Sehonghong,SEH_1,Lesotho,-29.7667,28.7833,Later Stone Age,,,Macrofossil,BSk,Moraea_tritia,1,Moraea trifida,Iridaceae,Other (mixed flora),
+Sehonghong,SEH_1,Lesotho,-29.7667,28.7833,Later Stone Age,,,Macrofossil,BSk,Phragmites_australis,1,Phragmites australis,Poaceae,Other (mixed flora),
+Sehonghong,SEH_1,Lesotho,-29.7667,28.7833,Later Stone Age,,,Macrofossil,BSk,Printzia_pyrifolia,1,Printzia pyrifolia,Asteraceae,Other (mixed flora),
+Sehonghong,SEH_1,Lesotho,-29.7667,28.7833,Later Stone Age,,,Macrofossil,BSk,Salix_cf_capensis,1,Salix mucronata,Salicaceae,Other (mixed flora),
+Sehonghong,SEH_1,Lesotho,-29.7667,28.7833,Later Stone Age,,,Macrofossil,BSk,Senecio,1,Senecio,Asteraceae,Other (mixed flora),
+Sehonghong,SEH_1,Lesotho,-29.7667,28.7833,Later Stone Age,,,Macrofossil,BSk,Themeda_trianda,1,Themeda triandra,Poaceae,Other (mixed flora),
+Sehonghong,SEH_1,Lesotho,-29.7667,28.7833,Later Stone Age,,,Macrofossil,BSk,Watsonia,1,Watsonia,Iridaceae,Other (mixed flora),
+Sehonghong,SEH_2,Lesotho,-29.7667,28.7833,Middle/ Later Stone Age,,,Macrofossil,BSk,Aloe,1,Aloe,Asphodelaceae,Other (mixed flora),
+Sehonghong,SEH_2,Lesotho,-29.7667,28.7833,Middle/ Later Stone Age,,,Macrofossil,BSk,Aloe_saponaria,1,Aloe microstigma,Asphodelaceae,Other (mixed flora),
+Sehonghong,SEH_2,Lesotho,-29.7667,28.7833,Middle/ Later Stone Age,,,Macrofossil,BSk,Cymbopogon,1,Cymbopogon,Poaceae,Other (mixed flora),
+Sehonghong,SEH_2,Lesotho,-29.7667,28.7833,Middle/ Later Stone Age,,,Macrofossil,BSk,Cyperus_usitatus,1,Cyperus usitatus,Cyperaceae,Other (mixed flora),
+Sehonghong,SEH_2,Lesotho,-29.7667,28.7833,Middle/ Later Stone Age,,,Macrofossil,BSk,Diospyros,1,Diospyros,Ebenaceae,Native subsistence plant,Jackal-berry
+Sehonghong,SEH_2,Lesotho,-29.7667,28.7833,Middle/ Later Stone Age,,,Macrofossil,BSk,Helichrysum,1,Helichrysum,Asteraceae,Other (mixed flora),
+Sehonghong,SEH_2,Lesotho,-29.7667,28.7833,Middle/ Later Stone Age,,,Macrofossil,BSk,Hesperantha_cf,1,Hesperantha,Iridaceae,Other (mixed flora),
+Sehonghong,SEH_2,Lesotho,-29.7667,28.7833,Middle/ Later Stone Age,,,Macrofossil,BSk,Hespereanthus,1,Hesperantha,Iridaceae,Other (mixed flora),
+Sehonghong,SEH_2,Lesotho,-29.7667,28.7833,Middle/ Later Stone Age,,,Macrofossil,BSk,Juncus,1,Juncus,Juncaceae,Other (mixed flora),
+Sehonghong,SEH_2,Lesotho,-29.7667,28.7833,Middle/ Later Stone Age,,,Macrofossil,BSk,Kniphofia,1,Kniphofia,Asphodelaceae,Other (mixed flora),
+Sehonghong,SEH_2,Lesotho,-29.7667,28.7833,Middle/ Later Stone Age,,,Macrofossil,BSk,Moraea_tritia,1,Moraea trifida,Iridaceae,Other (mixed flora),
+Sehonghong,SEH_2,Lesotho,-29.7667,28.7833,Middle/ Later Stone Age,,,Macrofossil,BSk,Phragmites_australis,1,Phragmites australis,Poaceae,Other (mixed flora),
+Sehonghong,SEH_2,Lesotho,-29.7667,28.7833,Middle/ Later Stone Age,,,Macrofossil,BSk,Printzia,1,Printzia,Asteraceae,Other (mixed flora),
+Sehonghong,SEH_2,Lesotho,-29.7667,28.7833,Middle/ Later Stone Age,,,Macrofossil,BSk,Protea,1,Protea,Proteaceae,Other (mixed flora),
+Sehonghong,SEH_2,Lesotho,-29.7667,28.7833,Middle/ Later Stone Age,,,Macrofossil,BSk,Rhoicissus,1,Rhoicissus,Vitaceae,Native subsistence plant,
+Sehonghong,SEH_2,Lesotho,-29.7667,28.7833,Middle/ Later Stone Age,,,Macrofossil,BSk,Rhus,1,Rhus,Anacardiaceae,Other (mixed flora),
+Sehonghong,SEH_2,Lesotho,-29.7667,28.7833,Middle/ Later Stone Age,,,Macrofossil,BSk,Salix,1,Salix,Salicaceae,Other (mixed flora),
+Sehonghong,SEH_2,Lesotho,-29.7667,28.7833,Middle/ Later Stone Age,,,Macrofossil,BSk,Senecio,1,Senecio,Asteraceae,Other (mixed flora),
+Sehonghong,SEH_2,Lesotho,-29.7667,28.7833,Middle/ Later Stone Age,,,Macrofossil,BSk,Themeda_triandra,1,,,,
+Sehonghong,SEH_2,Lesotho,-29.7667,28.7833,Middle/ Later Stone Age,,,Macrofossil,BSk,Watsonia,1,Watsonia,Iridaceae,Other (mixed flora),
+Geduld,GD_1,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Acacia,1,Acacia,Fabaceae,,
+Geduld,GD_1,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Berchemia_discolor,1,Berchemia discolor,Rhamnaceae,Native subsistence plant,Bird plum
+Geduld,GD_1,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Citrullus_lanatus,1,Citrullus lanatus,Cucurbitaceae,Native subsistence plant,Tsamma melon
+Geduld,GD_1,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Euclea_pseudebenus,1,Euclea pseudebenus,Ebenaceae,Native subsistence plant,Ebony guarri
+Geduld,GD_1,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Grewia,1,Grewia,Malvaceae,Native subsistence plant,Raisin bush
+Geduld,GD_1,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Tylosema esculentum,1,Tylosema esculentum,Fabaceae,Native subsistence plant,Marama bean
+Geduld,GD_1,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Ximenia_americana_caffra,1,Ximenia afra,Olacaceae,Native subsistence plant,Sourplum
+Geduld,GD_1,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Ziziphus_murcronata,1,Ziziphus mucronata,Rhamnaceae,Native subsistence plant,Buffalo-thorn
+Geduld,GD_2,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Adiagnostic,1,Adiagnostic,,Other (mixed flora),
+Geduld,GD_2,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Berchemia_discolor,1,Berchemia discolor,Rhamnaceae,Native subsistence plant,Bird plum
+Geduld,GD_2,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Citrullus_lanatus,1,Citrullus lanatus,Cucurbitaceae,Native subsistence plant,Tsamma melon
+Geduld,GD_2,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Grewia,1,Grewia,Malvaceae,Native subsistence plant,Raisin bush
+Geduld,GD_2,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Tylosema esculentum,1,Tylosema esculentum,Fabaceae,Native subsistence plant,Marama bean
+Geduld,GD_2,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Ximenia_americana_caffra,1,Ximenia afra,Olacaceae,Native subsistence plant,Sourplum
+Geduld,GD_3,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Berchemia_discolor,1,Berchemia discolor,Rhamnaceae,Native subsistence plant,Bird plum
+Geduld,GD_3,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Citrullus_lanatus,1,Citrullus lanatus,Cucurbitaceae,Native subsistence plant,Tsamma melon
+Geduld,GD_3,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Commiphora,1,Commiphora,Burseraceae,Other (mixed flora),
+Geduld,GD_3,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Cyperus,1,Cyperus,Cyperaceae,Other (mixed flora),
+Geduld,GD_3,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Euclea_pseudebenus,1,Euclea pseudebenus,Ebenaceae,Native subsistence plant,Ebony guarri
+Geduld,GD_3,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Grewia,1,Grewia,Malvaceae,Native subsistence plant,Raisin bush
+Geduld,GD_3,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Ricinus_communis,1,Ricinus communis,Euphorbiaceae,Introduced from wider Africa,Castor-oil plant
+Geduld,GD_3,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Terminalia,1,Terminalia,Combretaceae,Other (mixed flora),
+Geduld,GD_3,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Tylosema esculentum,1,Tylosema esculentum,Fabaceae,Native subsistence plant,Marama bean
+Geduld,GD_3,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Ximenia_americana_caffra,1,Ximenia afra,Olacaceae,Native subsistence plant,Sourplum
+Geduld,GD_3,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Ziziphus_murcronata,1,Ziziphus mucronata,Rhamnaceae,Native subsistence plant,Buffalo-thorn
+Geduld,GD_4,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Boscia_albitrunca,1,Boscia albitrunca,,Native subsistence plant,Shepherd's tree
+Geduld,GD_4,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Boscia_foetida,1,Boscia foetida,Capparaceae,Native subsistence plant,Stink shepherd's tree
+Geduld,GD_4,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Citrullus_lanatus,1,Citrullus lanatus,Cucurbitaceae,Native subsistence plant,Tsamma melon
+Geduld,GD_4,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Euclea_pseudebenus,1,Euclea pseudebenus,Ebenaceae,Native subsistence plant,Ebony guarri
+Geduld,GD_4,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Tylosema esculentum,1,Tylosema esculentum,Fabaceae,Native subsistence plant,Marama bean
+Geduld,GD_4,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Ximenia_americana_caffra,1,Ximenia afra,Olacaceae,Native subsistence plant,Sourplum
+Geduld,GD_4,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Ziziphus_murcronata,1,Ziziphus mucronata,Rhamnaceae,Native subsistence plant,Buffalo-thorn
+Geduld,GD_5,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Adiagnostic,1,Adiagnostic,,Other (mixed flora),
+Geduld,GD_5,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Berchemia_discolor,1,Berchemia discolor,Rhamnaceae,Native subsistence plant,Bird plum
+Geduld,GD_5,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Citrullus_lanatus,1,Citrullus lanatus,Cucurbitaceae,Native subsistence plant,Tsamma melon
+Geduld,GD_5,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Cyperus,1,Cyperus,Cyperaceae,Other (mixed flora),
+Geduld,GD_5,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Euclea_pseudebenus,1,Euclea pseudebenus,Ebenaceae,Native subsistence plant,Ebony guarri
+Geduld,GD_5,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Grewia,1,Grewia,Malvaceae,Native subsistence plant,Raisin bush
+Geduld,GD_5,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Lapeirousia,1,Lapeirousia,Iridaceae,Other (mixed flora),
+Geduld,GD_5,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Tylosema esculentum,1,Tylosema esculentum,Fabaceae,Native subsistence plant,Marama bean
+Geduld,GD_5,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Ximenia_americana_caffra,1,Ximenia afra,Olacaceae,Native subsistence plant,Sourplum
+Geduld,GD_5,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Ziziphus_murcronata,1,Ziziphus mucronata,Rhamnaceae,Native subsistence plant,Buffalo-thorn
+Geduld,GD_6,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Acacia,1,Acacia,Fabaceae,,
+Geduld,GD_6,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Adiagnostic,1,Adiagnostic,,Other (mixed flora),
+Geduld,GD_6,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Berchemia_discolor,1,Berchemia discolor,Rhamnaceae,Native subsistence plant,Bird plum
+Geduld,GD_6,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Boscia_foetida,1,Boscia foetida,Capparaceae,Native subsistence plant,Stink shepherd's tree
+Geduld,GD_6,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Citrullus_lanatus,1,Citrullus lanatus,Cucurbitaceae,Native subsistence plant,Tsamma melon
+Geduld,GD_6,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Commiphora,1,Commiphora,Burseraceae,Other (mixed flora),
+Geduld,GD_6,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Cyperus,1,Cyperus,Cyperaceae,Other (mixed flora),
+Geduld,GD_6,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Euclea_pseudebenus,1,Euclea pseudebenus,Ebenaceae,Native subsistence plant,Ebony guarri
+Geduld,GD_6,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Grewia,1,Grewia,Malvaceae,Native subsistence plant,Raisin bush
+Geduld,GD_6,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Lapeirousia,1,Lapeirousia,Iridaceae,Other (mixed flora),
+Geduld,GD_6,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Tylosema esculentum,1,Tylosema esculentum,Fabaceae,Native subsistence plant,Marama bean
+Geduld,GD_6,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Ximenia_americana_caffra,1,Ximenia afra,Olacaceae,Native subsistence plant,Sourplum
+Geduld,GD_6,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Ziziphus_murcronata,1,Ziziphus mucronata,Rhamnaceae,Native subsistence plant,Buffalo-thorn
+Geduld,GD_7,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Citrullus_lanatus,1,Citrullus lanatus,Cucurbitaceae,Native subsistence plant,Tsamma melon
+Geduld,GD_7,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Commiphora,1,Commiphora,Burseraceae,Other (mixed flora),
+Geduld,GD_7,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Euclea_pseudebenus,1,Euclea pseudebenus,Ebenaceae,Native subsistence plant,Ebony guarri
+Geduld,GD_7,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Grewia,1,Grewia,Malvaceae,Native subsistence plant,Raisin bush
+Geduld,GD_7,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Lapeirousia,1,Lapeirousia,Iridaceae,Other (mixed flora),
+Geduld,GD_7,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Tylosema esculentum,1,Tylosema esculentum,Fabaceae,Native subsistence plant,Marama bean
+Geduld,GD_7,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Ximenia_americana_caffra,1,Ximenia afra,Olacaceae,Native subsistence plant,Sourplum
+Geduld,GD_8,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Adiagnostic,1,Adiagnostic,,Other (mixed flora),
+Geduld,GD_8,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Berchemia_discolor,1,Berchemia discolor,Rhamnaceae,Native subsistence plant,Bird plum
+Geduld,GD_8,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Citrullus_lanatus,1,Citrullus lanatus,Cucurbitaceae,Native subsistence plant,Tsamma melon
+Geduld,GD_8,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Commiphora,1,Commiphora,Burseraceae,Other (mixed flora),
+Geduld,GD_8,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Cyperus,1,Cyperus,Cyperaceae,Other (mixed flora),
+Geduld,GD_8,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Elephantorrhiza_elephantina,1,Entada elephantina,Fabaceae,Native subsistence plant,Eland's bean
+Geduld,GD_8,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Euclea_pseudebenus,1,Euclea pseudebenus,Ebenaceae,Native subsistence plant,Ebony guarri
+Geduld,GD_8,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Grewia,1,Grewia,Malvaceae,Native subsistence plant,Raisin bush
+Geduld,GD_8,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Tylosema esculentum,1,Tylosema esculentum,Fabaceae,Native subsistence plant,Marama bean
+Geduld,GD_8,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Ximenia_americana_caffra,1,Ximenia afra,Olacaceae,Native subsistence plant,Sourplum
+Geduld,GD_8,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Ziziphus_murcronata,1,Ziziphus mucronata,Rhamnaceae,Native subsistence plant,Buffalo-thorn
+Geduld,GD_9,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Adiagnostic,1,Adiagnostic,,Other (mixed flora),
+Geduld,GD_9,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Citrullus_lanatus,1,Citrullus lanatus,Cucurbitaceae,Native subsistence plant,Tsamma melon
+Geduld,GD_9,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Cyperus,1,Cyperus,Cyperaceae,Other (mixed flora),
+Geduld,GD_9,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Grewia,1,Grewia,Malvaceae,Native subsistence plant,Raisin bush
+Geduld,GD_9,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Ximenia_americana_caffra,1,Ximenia afra,Olacaceae,Native subsistence plant,Sourplum
+Geduld,GD_9,Namibia,-20.2833,15.8333,Later Stone Age,,,Macrofossil,BWh,Ziziphus_murcronata,1,Ziziphus mucronata,Rhamnaceae,Native subsistence plant,Buffalo-thorn
+Mirabib Hill Shelter,MHS_1,Namibia,-23.45,15.3167,Modern,,,Macrofossil,BWh,Acanthosicyos_horrida,1,,,,
+Mirabib Hill Shelter,MHS_1,Namibia,-23.45,15.3167,Modern,,,Macrofossil,BWh,Ricinus_communis,1,Ricinus communis,Euphorbiaceae,Introduced from wider Africa,Castor-oil plant
+Mirabib Hill Shelter,MHS_2,Namibia,-23.45,15.3167,Later Stone Age,,,Macrofossil,BWh,Acanthosicyos_horrida,1,,,,
+Mirabib Hill Shelter,MHS_2,Namibia,-23.45,15.3167,Later Stone Age,,,Macrofossil,BWh,Ricinus_communis,1,Ricinus communis,Euphorbiaceae,Introduced from wider Africa,Castor-oil plant
+Mirabib Hill Shelter,MHS_3,Namibia,-23.45,15.3167,Later Stone Age,,,Macrofossil,BWh,Acanthosicyos_horrida,1,,,,
+Mirabib Hill Shelter,MHS_3,Namibia,-23.45,15.3167,Later Stone Age,,,Macrofossil,BWh,Ricinus_communis,1,Ricinus communis,Euphorbiaceae,Introduced from wider Africa,Castor-oil plant
+Mirabib Hill Shelter,MHS_4,Namibia,-23.45,15.3167,Later Stone Age,,,Macrofossil,BWh,Acanthosicyos_horrida,1,,,,
+Mirabib Hill Shelter,MHS_4,Namibia,-23.45,15.3167,Later Stone Age,,,Macrofossil,BWh,Ricinus_communis,1,Ricinus communis,Euphorbiaceae,Introduced from wider Africa,Castor-oil plant
+Mirabib Hill Shelter,MHS_5,Namibia,-23.45,15.3167,Early Stone Age,,,Macrofossil,BWh,,,,,,
+Spitzkoppe,SPZK_1,Namibia,-21.82,15.195,Later Stone Age,,pre-4160 BP,Macrofossil,BWh,,,,,,
+Spitzkoppe,SPZK_10,Namibia,-21.82,15.195,Later Stone Age,,,Macrofossil,BWh,Acacia_erioloba,1,Vachellia erioloba,Fabaceae,Other (mixed flora),
+Spitzkoppe,SPZK_10,Namibia,-21.82,15.195,Later Stone Age,,,Macrofossil,BWh,Sarcocaulon,1,Sarcocaulon,Geraniaceae,Other (mixed flora),
+Spitzkoppe,SPZK_11,Namibia,-21.82,15.195,Later Stone Age,,1240-0 BP,Macrofossil,BWh,Citrullus,1,Citrullus,Cucurbitaceae,Native subsistence plant,Wild watermelon
+Spitzkoppe,SPZK_11,Namibia,-21.82,15.195,Later Stone Age,,1240-0 BP,Macrofossil,BWh,Commiphora,1,Commiphora,Burseraceae,Other (mixed flora),
+Spitzkoppe,SPZK_12,Namibia,-21.82,15.195,Later Stone Age,,1240-0 BP,Macrofossil,BWh,Acacia_erioloba,1,Vachellia erioloba,Fabaceae,Other (mixed flora),
+Spitzkoppe,SPZK_12,Namibia,-21.82,15.195,Later Stone Age,,1240-0 BP,Macrofossil,BWh,Boscia_albitrunca,1,Boscia albitrunca,,Native subsistence plant,Shepherd's tree
+Spitzkoppe,SPZK_12,Namibia,-21.82,15.195,Later Stone Age,,1240-0 BP,Macrofossil,BWh,Commiphora,1,Commiphora,Burseraceae,Other (mixed flora),
+Spitzkoppe,SPZK_12,Namibia,-21.82,15.195,Later Stone Age,,1240-0 BP,Macrofossil,BWh,Cyperus_cf_fulgens,1,Cyperus callistus,Cyperaceae,Other (mixed flora),
+Spitzkoppe,SPZK_12,Namibia,-21.82,15.195,Later Stone Age,,1240-0 BP,Macrofossil,BWh,Euclea_pseudebenus,1,Euclea pseudebenus,Ebenaceae,Native subsistence plant,Ebony guarri
+Spitzkoppe,SPZK_12,Namibia,-21.82,15.195,Later Stone Age,,1240-0 BP,Macrofossil,BWh,Fabaceae,1,Fabaceae,Fabaceae,Other (mixed flora),
+Spitzkoppe,SPZK_12,Namibia,-21.82,15.195,Later Stone Age,,1240-0 BP,Macrofossil,BWh,Lapeirousia,1,Lapeirousia,Iridaceae,Other (mixed flora),
+Spitzkoppe,SPZK_12,Namibia,-21.82,15.195,Later Stone Age,,1240-0 BP,Macrofossil,BWh,Ondetia_linearis,1,Ondetia linearis,Asteraceae,Other (mixed flora),
+Spitzkoppe,SPZK_2,Namibia,-21.82,15.195,Later Stone Age,,pre-4160 BP,Macrofossil,BWh,,,,,,
+Spitzkoppe,SPZK_3,Namibia,-21.82,15.195,Later Stone Age,,,Macrofossil,BWh,,,,,,
+Spitzkoppe,SPZK_4,Namibia,-21.82,15.195,Later Stone Age,,,Macrofossil,BWh,Vangueria,1,Vangueria,Rubiaceae,Other (mixed flora),
+Spitzkoppe,SPZK_5,Namibia,-21.82,15.195,Later Stone Age,,3400-2600 BP,Macrofossil,BWh,,,,,,
+Spitzkoppe,SPZK_6,Namibia,-21.82,15.195,Later Stone Age,,,Macrofossil,BWh,Ondetia_linearis,1,Ondetia linearis,Asteraceae,Other (mixed flora),
+Spitzkoppe,SPZK_7,Namibia,-21.82,15.195,Later Stone Age,,2600-1240 BP,Macrofossil,BWh,Boscia_albitrunca,1,Boscia albitrunca,,Native subsistence plant,Shepherd's tree
+Spitzkoppe,SPZK_7,Namibia,-21.82,15.195,Later Stone Age,,2600-1240 BP,Macrofossil,BWh,Lapeirousia,1,Lapeirousia,Iridaceae,Other (mixed flora),
+Spitzkoppe,SPZK_7,Namibia,-21.82,15.195,Later Stone Age,,2600-1240 BP,Macrofossil,BWh,Ondetia_linearis,1,Ondetia linearis,Asteraceae,Other (mixed flora),
+Spitzkoppe,SPZK_8,Namibia,-21.82,15.195,Later Stone Age,,2600-1240 BP,Macrofossil,BWh,,,,,,
+Spitzkoppe,SPZK_9,Namibia,-21.82,15.195,Later Stone Age,,2600-1240 BP,Macrofossil,BWh,Boscia_albitrunca,1,Boscia albitrunca,,Native subsistence plant,Shepherd's tree
+Spitzkoppe,SPZK_9,Namibia,-21.82,15.195,Later Stone Age,,2600-1240 BP,Macrofossil,BWh,Combretum,1,Combretum,Combretaceae,Other (mixed flora),
+Spitzkoppe,SPZK_9,Namibia,-21.82,15.195,Later Stone Age,,2600-1240 BP,Macrofossil,BWh,Euclea_pseudebenus,1,Euclea pseudebenus,Ebenaceae,Native subsistence plant,Ebony guarri
+Spitzkoppe,SPZK_9,Namibia,-21.82,15.195,Later Stone Age,,2600-1240 BP,Macrofossil,BWh,Lapeirousia,1,Lapeirousia,Iridaceae,Other (mixed flora),
+Spitzkoppe,SPZK_9,Namibia,-21.82,15.195,Later Stone Age,,2600-1240 BP,Macrofossil,BWh,Ondetia_linearis,1,Ondetia linearis,Asteraceae,Other (mixed flora),
+Spitzkoppe,SPZK_9,Namibia,-21.82,15.195,Later Stone Age,,2600-1240 BP,Macrofossil,BWh,Vangueria,1,Vangueria,Rubiaceae,Other (mixed flora),
+Balerno Shelter 2,BS2_1,South Africa,-22.2869,29.2036,Later Stone Age,,600-1350 AD,Macrofossil,BWh,Citrullus_lanatus,1,Citrullus lanatus,Cucurbitaceae,Native subsistence plant,Tsamma melon
+Balerno Shelter 2,BS2_1,South Africa,-22.2869,29.2036,Later Stone Age,,600-1350 AD,Macrofossil,BWh,Momordica_balsamina,1,Momordica balsamina,Cucurbitaceae,Native subsistence plant,Balsam apple
+Evelyn,EVE_1,South Africa,-22.6,29.7,Middle Iron Age,,1200 AD,Macrofossil,BSh,Adansonia_digitata,1,Adansonia digitata,Malvaceae,Introduced from wider Africa,Baobab
+Evelyn,EVE_1,South Africa,-22.6,29.7,Middle Iron Age,,1200 AD,Macrofossil,BSh,Adiagnostic,1,Adiagnostic,,Other (mixed flora),
+Evelyn,EVE_1,South Africa,-22.6,29.7,Middle Iron Age,,1200 AD,Macrofossil,BSh,Cenchrus_americanus,1,Cenchrus americanus,Poaceae,Introduced from wider Africa,Pearl millet
+Evelyn,EVE_1,South Africa,-22.6,29.7,Middle Iron Age,,1200 AD,Macrofossil,BSh,Chenopodium,1,Chenopodium,Amaranthaceae,Native subsistence plant,Goosefoot
+Evelyn,EVE_1,South Africa,-22.6,29.7,Middle Iron Age,,1200 AD,Macrofossil,BSh,Gossypium,1,Gossypium,Malvaceae,Other (mixed flora),
+Evelyn,EVE_1,South Africa,-22.6,29.7,Middle Iron Age,,1200 AD,Macrofossil,BSh,Grewia,1,Grewia,Malvaceae,Native subsistence plant,Raisin bush
+Evelyn,EVE_1,South Africa,-22.6,29.7,Middle Iron Age,,1200 AD,Macrofossil,BSh,Sclerocarya_birrea,1,Sclerocarya birrea,Anacardiaceae,Native subsistence plant,Marula
+Evelyn,EVE_1,South Africa,-22.6,29.7,Middle Iron Age,,1200 AD,Macrofossil,BSh,Sorghum_bicolor,1,Sorghum bicolor,Poaceae,Introduced from wider Africa,Sorghum
+Evelyn,EVE_1,South Africa,-22.6,29.7,Middle Iron Age,,1200 AD,Macrofossil,BSh,Vachellia_Senegalia,1,Vachellia/ Senegalia,Fabaceae,Other (mixed flora),
+Evelyn,EVE_1,South Africa,-22.6,29.7,Middle Iron Age,,1200 AD,Macrofossil,BSh,Vigna_radiata,1,Vigna radiata,Fabaceae,Introduced from outside Africa,Mung bean
+Evelyn,EVE_1,South Africa,-22.6,29.7,Middle Iron Age,,1200 AD,Macrofossil,BSh,Vigna_unguiculata,1,Vigna unguiculata,Fabaceae,Introduced from wider Africa,Cowpea
+Evelyn,EVE_1,South Africa,-22.6,29.7,Middle Iron Age,,1200 AD,Macrofossil,BSh,Ziziphus,1,Ziziphus,Rhamnaceae,Native subsistence plant,Buffalo-thorn
+Frampton 1,FRA_1,South Africa,-22.4,30.5,Middle Iron Age,,1200 AD,Macrofossil,BSh,Adiagnostic,1,Adiagnostic,,Other (mixed flora),
+Frampton 1,FRA_1,South Africa,-22.4,30.5,Middle Iron Age,,1200 AD,Macrofossil,BSh,Chenopodium,1,Chenopodium,Amaranthaceae,Native subsistence plant,Goosefoot
+Frampton 1,FRA_1,South Africa,-22.4,30.5,Middle Iron Age,,1200 AD,Macrofossil,BSh,Citrullus,1,Citrullus,Cucurbitaceae,Native subsistence plant,Wild watermelon
+Frampton 1,FRA_1,South Africa,-22.4,30.5,Middle Iron Age,,1200 AD,Macrofossil,BSh,Gossypium,1,Gossypium,Malvaceae,Other (mixed flora),
+Frampton 1,FRA_1,South Africa,-22.4,30.5,Middle Iron Age,,1200 AD,Macrofossil,BSh,Nutshell_indet,1,,,,
+Frampton 1,FRA_1,South Africa,-22.4,30.5,Middle Iron Age,,1200 AD,Macrofossil,BSh,Sclerocarya_birrea,1,Sclerocarya birrea,Anacardiaceae,Native subsistence plant,Marula
+Frampton 1,FRA_1,South Africa,-22.4,30.5,Middle Iron Age,,1200 AD,Macrofossil,BSh,Solanum_retroflexum,1,Solanum retroflexum,Solanaceae,Native subsistence plant,Wonderberry
+Frampton 2,FRA_2,South Africa,-22.4,30.5,Middle Iron Age,,1200 AD,Macrofossil,BSh,Adiagnostic,1,Adiagnostic,,Other (mixed flora),
+Frampton 2,FRA_2,South Africa,-22.4,30.5,Middle Iron Age,,1200 AD,Macrofossil,BSh,Chenopodium,1,Chenopodium,Amaranthaceae,Native subsistence plant,Goosefoot
+Frampton 2,FRA_2,South Africa,-22.4,30.5,Middle Iron Age,,1200 AD,Macrofossil,BSh,Sorghum_bicolor,1,Sorghum bicolor,Poaceae,Introduced from wider Africa,Sorghum
+Frampton 2,FRA_2,South Africa,-22.4,30.5,Middle Iron Age,,1200 AD,Macrofossil,BSh,Vachellia_Senegalia,1,Vachellia/ Senegalia,Fabaceae,Other (mixed flora),
+Klein Bolayi,KBO_1,South Africa,-22.6,29.7,Middle Iron Age,,1200 AD,Macrofossil,BSh,Adansonia_digitata,1,Adansonia digitata,Malvaceae,Introduced from wider Africa,Baobab
+Klein Bolayi,KBO_1,South Africa,-22.6,29.7,Middle Iron Age,,1200 AD,Macrofossil,BSh,Adiagnostic,1,Adiagnostic,,Other (mixed flora),
+Klein Bolayi,KBO_1,South Africa,-22.6,29.7,Middle Iron Age,,1200 AD,Macrofossil,BSh,Cenchrus_americanus,1,Cenchrus americanus,Poaceae,Introduced from wider Africa,Pearl millet
+Klein Bolayi,KBO_1,South Africa,-22.6,29.7,Middle Iron Age,,1200 AD,Macrofossil,BSh,Cyperaceae_indet,1,Cyperaceae,Cyperaceae,Other (mixed flora),
+Klein Bolayi,KBO_1,South Africa,-22.6,29.7,Middle Iron Age,,1200 AD,Macrofossil,BSh,Gossypium,1,Gossypium,Malvaceae,Other (mixed flora),
+Klein Bolayi,KBO_1,South Africa,-22.6,29.7,Middle Iron Age,,1200 AD,Macrofossil,BSh,Grewia,1,Grewia,Malvaceae,Native subsistence plant,Raisin bush
+Klein Bolayi,KBO_1,South Africa,-22.6,29.7,Middle Iron Age,,1200 AD,Macrofossil,BSh,Sclerocarya_birrea,1,Sclerocarya birrea,Anacardiaceae,Native subsistence plant,Marula
+Klein Bolayi,KBO_1,South Africa,-22.6,29.7,Middle Iron Age,,1200 AD,Macrofossil,BSh,Vachellia_Senegalia,1,Vachellia/ Senegalia,Fabaceae,Other (mixed flora),
+Klein Bolayi,KBO_1,South Africa,-22.6,29.7,Middle Iron Age,,1200 AD,Macrofossil,BSh,Ziziphus,1,Ziziphus,Rhamnaceae,Native subsistence plant,Buffalo-thorn
+Magogo,MAG_1,South Africa,-29,30.4,Early Iron Age,,420-1050 AD,Macrofossil,Cwa,Celtis,1,Celtis,Cannabaceae,Other (mixed flora),
+Magogo,MAG_1,South Africa,-29,30.4,Early Iron Age,,420-1050 AD,Macrofossil,Cwa,Citrellus,1,Citrullus,Cucurbitaceae,Native subsistence plant,Wild watermelon
+Magogo,MAG_1,South Africa,-29,30.4,Early Iron Age,,420-1050 AD,Macrofossil,Cwa,Commelina_crispa,1,Commelina erecta subsp. erecta,Commelinaceae,Other (mixed flora),
+Magogo,MAG_1,South Africa,-29,30.4,Early Iron Age,,420-1050 AD,Macrofossil,Cwa,Grewia,1,Grewia,Malvaceae,Native subsistence plant,Raisin bush
+Magogo,MAG_1,South Africa,-29,30.4,Early Iron Age,,420-1050 AD,Macrofossil,Cwa,Mollugo,1,Mollugo,Molluginaceae,Native subsistence plant,Carpetweed
+Magogo,MAG_1,South Africa,-29,30.4,Early Iron Age,,420-1050 AD,Macrofossil,Cwa,Olea,1,Olea,Oleaceae,Other (mixed flora),
+Magogo,MAG_1,South Africa,-29,30.4,Early Iron Age,,420-1050 AD,Macrofossil,Cwa,Panicum_miliaceum,1,Panicum miliaceum,Poaceae,Introduced from outside Africa,Broomcorn millet
+Magogo,MAG_1,South Africa,-29,30.4,Early Iron Age,,420-1050 AD,Macrofossil,Cwa,Rhus,1,Rhus,Anacardiaceae,Other (mixed flora),
+Magogo,MAG_2,South Africa,-29,30.4,Early Iron Age,,420-1050 AD,Macrofossil,Cwa,,,,,,
+Magogo,MAG_3,South Africa,-29,30.4,Early Iron Age,,420-1050 AD,Macrofossil,Cwa,Commelina,1,Commelina,Commelinaceae,Other (mixed flora),
+Magogo,MAG_3,South Africa,-29,30.4,Early Iron Age,,420-1050 AD,Macrofossil,Cwa,Commelina_crispa,1,Commelina erecta subsp. erecta,Commelinaceae,Other (mixed flora),
+Magogo,MAG_3,South Africa,-29,30.4,Early Iron Age,,420-1050 AD,Macrofossil,Cwa,Grewia,1,Grewia,Malvaceae,Native subsistence plant,Raisin bush
+Magogo,MAG_3,South Africa,-29,30.4,Early Iron Age,,420-1050 AD,Macrofossil,Cwa,Mollugo,1,Mollugo,Molluginaceae,Native subsistence plant,Carpetweed
+Magogo,MAG_4,South Africa,-29,30.4,Early Iron Age,,420-1050 AD,Macrofossil,Cwa,Commelina_crispa,1,Commelina erecta subsp. erecta,Commelinaceae,Other (mixed flora),
+Magogo,MAG_4,South Africa,-29,30.4,Early Iron Age,,420-1050 AD,Macrofossil,Cwa,Grewia,1,Grewia,Malvaceae,Native subsistence plant,Raisin bush
+Magogo,MAG_4,South Africa,-29,30.4,Early Iron Age,,420-1050 AD,Macrofossil,Cwa,Hyptis,1,Hyptis,Lamiaceae,Other (mixed flora),
+Magogo,MAG_4,South Africa,-29,30.4,Early Iron Age,,420-1050 AD,Macrofossil,Cwa,Ipomoea,1,Ipomoea,Convolvulaceae,Other (mixed flora),
+Magogo,MAG_4,South Africa,-29,30.4,Early Iron Age,,420-1050 AD,Macrofossil,Cwa,Mollugo,1,Mollugo,Molluginaceae,Native subsistence plant,Carpetweed
+Magogo,MAG_4,South Africa,-29,30.4,Early Iron Age,,420-1050 AD,Macrofossil,Cwa,Sorghum,1,Sorghum,Poaceae,Introduced from wider Africa,Sorghum
+Magogo,MAG_5,South Africa,-29,30.4,Early Iron Age,,420-1050 AD,Macrofossil,Cwa,Grewia,1,Grewia,Malvaceae,Native subsistence plant,Raisin bush
+Magogo,MAG_5,South Africa,-29,30.4,Early Iron Age,,420-1050 AD,Macrofossil,Cwa,Pennisetum_typhoides,1,Cenchrus americanus,Poaceae,Introduced from wider Africa,Pearl millet
+Mutamba,MUT_1,South Africa,-22.9,29.6,Late Iron Age,,1200 AD,Macrofossil,BSh,Adansonia_digitata,1,Adansonia digitata,Malvaceae,Introduced from wider Africa,Baobab
+Mutamba,MUT_1,South Africa,-22.9,29.6,Late Iron Age,,1200 AD,Macrofossil,BSh,Adiagnostic,1,Adiagnostic,,Other (mixed flora),
+Mutamba,MUT_1,South Africa,-22.9,29.6,Late Iron Age,,1200 AD,Macrofossil,BSh,Brachiaria_deflexa,1,Brachiaria deflexa,Poaceae,Other (mixed flora),
+Mutamba,MUT_1,South Africa,-22.9,29.6,Late Iron Age,,1200 AD,Macrofossil,BSh,Brachiaria_nigropedata,1,Urochloa nigropedata,Poaceae,Other (mixed flora),
+Mutamba,MUT_1,South Africa,-22.9,29.6,Late Iron Age,,1200 AD,Macrofossil,BSh,Cenchrus_americanus,1,Cenchrus americanus,Poaceae,Introduced from wider Africa,Pearl millet
+Mutamba,MUT_1,South Africa,-22.9,29.6,Late Iron Age,,1200 AD,Macrofossil,BSh,Eleusine_coracana,1,Eleusine coracana,Poaceae,Introduced from wider Africa,Finger millet
+Mutamba,MUT_1,South Africa,-22.9,29.6,Late Iron Age,,1200 AD,Macrofossil,BSh,Gossypium_herbaceum,1,Gossypium herbaceum,Malvaceae,Introduced from wider Africa,Cotton
+Mutamba,MUT_1,South Africa,-22.9,29.6,Late Iron Age,,1200 AD,Macrofossil,BSh,Grewia,1,Grewia,Malvaceae,Native subsistence plant,Raisin bush
+Mutamba,MUT_1,South Africa,-22.9,29.6,Late Iron Age,,1200 AD,Macrofossil,BSh,Sclerocarya_birrea,1,Sclerocarya birrea,Anacardiaceae,Native subsistence plant,Marula
+Mutamba,MUT_1,South Africa,-22.9,29.6,Late Iron Age,,1200 AD,Macrofossil,BSh,Sorghum_bicolor,1,Sorghum bicolor,Poaceae,Introduced from wider Africa,Sorghum
+Mutamba,MUT_1,South Africa,-22.9,29.6,Late Iron Age,,1200 AD,Macrofossil,BSh,Vachellia_Senegalia,1,Vachellia/ Senegalia,Fabaceae,Other (mixed flora),
+Mutamba,MUT_1,South Africa,-22.9,29.6,Late Iron Age,,1200 AD,Macrofossil,BSh,Vigna_radiata,1,Vigna radiata,Fabaceae,Introduced from outside Africa,Mung bean
+Mutamba,MUT_1,South Africa,-22.9,29.6,Late Iron Age,,1200 AD,Macrofossil,BSh,Vigna_unguiculata,1,Vigna unguiculata,Fabaceae,Introduced from wider Africa,Cowpea
+Mutamba,MUT_1,South Africa,-22.9,29.6,Late Iron Age,,1200 AD,Macrofossil,BSh,Ziziphus_zeyheriana,1,Ziziphus zeyheriana,Rhamnaceae,Native subsistence plant,Dwarf buffalo-thorn
+Mutamba,MUT_2,South Africa,-22.9,29.6,Late Iron Age,,,Macrofossil,BSh,Acacia,1,Acacia,Fabaceae,,
+Mutamba,MUT_2,South Africa,-22.9,29.6,Late Iron Age,,,Macrofossil,BSh,Adansonia_digitata,1,Adansonia digitata,Malvaceae,Introduced from wider Africa,Baobab
+Mutamba,MUT_2,South Africa,-22.9,29.6,Late Iron Age,,,Macrofossil,BSh,Brachiaria_deflexa,1,Brachiaria deflexa,Poaceae,Other (mixed flora),
+Mutamba,MUT_2,South Africa,-22.9,29.6,Late Iron Age,,,Macrofossil,BSh,Brachiaria_nigropedata,1,Urochloa nigropedata,Poaceae,Other (mixed flora),
+Mutamba,MUT_2,South Africa,-22.9,29.6,Late Iron Age,,,Macrofossil,BSh,Eleusine_coracana,1,Eleusine coracana,Poaceae,Introduced from wider Africa,Finger millet
+Mutamba,MUT_2,South Africa,-22.9,29.6,Late Iron Age,,,Macrofossil,BSh,Gossypium_herbaceum,1,Gossypium herbaceum,Malvaceae,Introduced from wider Africa,Cotton
+Mutamba,MUT_2,South Africa,-22.9,29.6,Late Iron Age,,,Macrofossil,BSh,Grewia,1,Grewia,Malvaceae,Native subsistence plant,Raisin bush
+Mutamba,MUT_2,South Africa,-22.9,29.6,Late Iron Age,,,Macrofossil,BSh,Pennisetum_glaucum,1,Cenchrus americanus,Poaceae,Introduced from wider Africa,Pearl millet
+Mutamba,MUT_2,South Africa,-22.9,29.6,Late Iron Age,,,Macrofossil,BSh,Sclerocarya_birrea,1,Sclerocarya birrea,Anacardiaceae,Native subsistence plant,Marula
+Mutamba,MUT_2,South Africa,-22.9,29.6,Late Iron Age,,,Macrofossil,BSh,Sorghum_bicolor,1,Sorghum bicolor,Poaceae,Introduced from wider Africa,Sorghum
+Mutamba,MUT_2,South Africa,-22.9,29.6,Late Iron Age,,,Macrofossil,BSh,Vigna_radiata,1,Vigna radiata,Fabaceae,Introduced from outside Africa,Mung bean
+Mutamba,MUT_2,South Africa,-22.9,29.6,Late Iron Age,,,Macrofossil,BSh,Vigna_unguiculata,1,Vigna unguiculata,Fabaceae,Introduced from wider Africa,Cowpea
+Mutamba,MUT_2,South Africa,-22.9,29.6,Late Iron Age,,,Macrofossil,BSh,Ziziphus_zeyheriana,1,Ziziphus zeyheriana,Rhamnaceae,Native subsistence plant,Dwarf buffalo-thorn
+Ndondondwane,NDD_1,South Africa,-28.9,31,Early Iron Age,2,420-1050 AD,Macrofossil,Cfa,Convulvulus,1,Convolvulus,Convolvulaceae,Other (mixed flora),
+Ndondondwane,NDD_1,South Africa,-28.9,31,Early Iron Age,2,420-1050 AD,Macrofossil,Cfa,Desmodium,1,Desmodium,Fabaceae,Other (mixed flora),
+Ndondondwane,NDD_1,South Africa,-28.9,31,Early Iron Age,2,420-1050 AD,Macrofossil,Cfa,Drypetes,1,Drypetes,Putranjivaceae,Other (mixed flora),
+Ndondondwane,NDD_1,South Africa,-28.9,31,Early Iron Age,2,420-1050 AD,Macrofossil,Cfa,Euphorbia,1,Euphorbia,Euphorbiaceae,Other (mixed flora),
+Ndondondwane,NDD_1,South Africa,-28.9,31,Early Iron Age,2,420-1050 AD,Macrofossil,Cfa,Grewia,1,Grewia,Malvaceae,Native subsistence plant,Raisin bush
+Ndondondwane,NDD_1,South Africa,-28.9,31,Early Iron Age,2,420-1050 AD,Macrofossil,Cfa,Hyptis,1,Hyptis,Lamiaceae,Other (mixed flora),
+Ndondondwane,NDD_1,South Africa,-28.9,31,Early Iron Age,2,420-1050 AD,Macrofossil,Cfa,Ipomoea,1,Ipomoea,Convolvulaceae,Other (mixed flora),
+Ndondondwane,NDD_1,South Africa,-28.9,31,Early Iron Age,2,420-1050 AD,Macrofossil,Cfa,Kedrostis,1,Kedrostis,Cucurbitaceae,Native subsistence plant,Wild cucumber
+Ndondondwane,NDD_1,South Africa,-28.9,31,Early Iron Age,2,420-1050 AD,Macrofossil,Cfa,Olea,1,Olea,Oleaceae,Other (mixed flora),
+Ndondondwane,NDD_1,South Africa,-28.9,31,Early Iron Age,2,420-1050 AD,Macrofossil,Cfa,Potamogeton,1,Potamogeton,Potamogetonaceae,Other (mixed flora),
+Ndondondwane,NDD_1,South Africa,-28.9,31,Early Iron Age,2,420-1050 AD,Macrofossil,Cfa,Rhus,1,Rhus,Anacardiaceae,Other (mixed flora),
+Ndondondwane,NDD_1,South Africa,-28.9,31,Early Iron Age,2,420-1050 AD,Macrofossil,Cfa,Sapindaceae,1,Sapindaceae,Sapindaceae,Other (mixed flora),
+Ndondondwane,NDD_1,South Africa,-28.9,31,Early Iron Age,2,420-1050 AD,Macrofossil,Cfa,Sclerocarya_caffra,1,Sclerocarya birrea subsp. afra,Anacardiaceae,Native subsistence plant,Marula
+Ndondondwane,NDD_10,South Africa,-28.9,31,Early Iron Age,,420-1050 AD,Stalk casts,Cfa,Sorghum,1,Sorghum,Poaceae,Introduced from wider Africa,Sorghum
+Ndondondwane,NDD_2,South Africa,-28.9,31,Early Iron Age,2,420-1050 AD,Macrofossil,Cfa,Grewia,1,Grewia,Malvaceae,Native subsistence plant,Raisin bush
+Ndondondwane,NDD_2,South Africa,-28.9,31,Early Iron Age,2,420-1050 AD,Macrofossil,Cfa,Sclerocarya_caffra,1,Sclerocarya birrea subsp. afra,Anacardiaceae,Native subsistence plant,Marula
+Ndondondwane,NDD_3,South Africa,-28.9,31,Early Iron Age,1,420-1050 AD,Macrofossil,Cfa,Convulvulus,1,Convolvulus,Convolvulaceae,Other (mixed flora),
+Ndondondwane,NDD_4,South Africa,-28.9,31,Early Iron Age,2,420-1050 AD,Macrofossil,Cfa,Commelina,1,Commelina,Commelinaceae,Other (mixed flora),
+Ndondondwane,NDD_4,South Africa,-28.9,31,Early Iron Age,2,420-1050 AD,Macrofossil,Cfa,Commelina_crispa,1,Commelina erecta subsp. erecta,Commelinaceae,Other (mixed flora),
+Ndondondwane,NDD_4,South Africa,-28.9,31,Early Iron Age,2,420-1050 AD,Macrofossil,Cfa,Euphorbia,1,Euphorbia,Euphorbiaceae,Other (mixed flora),
+Ndondondwane,NDD_4,South Africa,-28.9,31,Early Iron Age,2,420-1050 AD,Macrofossil,Cfa,Grewia,1,Grewia,Malvaceae,Native subsistence plant,Raisin bush
+Ndondondwane,NDD_4,South Africa,-28.9,31,Early Iron Age,2,420-1050 AD,Macrofossil,Cfa,Mollugo,1,Mollugo,Molluginaceae,Native subsistence plant,Carpetweed
+Ndondondwane,NDD_4,South Africa,-28.9,31,Early Iron Age,2,420-1050 AD,Macrofossil,Cfa,Pennisetum_typhoides,1,Cenchrus americanus,Poaceae,Introduced from wider Africa,Pearl millet
+Ndondondwane,NDD_4,South Africa,-28.9,31,Early Iron Age,2,420-1050 AD,Macrofossil,Cfa,Sclerocarya_caffra,1,Sclerocarya birrea subsp. afra,Anacardiaceae,Native subsistence plant,Marula
+Ndondondwane,NDD_4,South Africa,-28.9,31,Early Iron Age,2,420-1050 AD,Macrofossil,Cfa,Vangueria,1,Vangueria,Rubiaceae,Other (mixed flora),
+Ndondondwane,NDD_5,South Africa,-28.9,31,Early Iron Age,1,420-1050 AD,Macrofossil,Cfa,Sapindaceae,1,Sapindaceae,Sapindaceae,Other (mixed flora),
+Ndondondwane,NDD_6,South Africa,-28.9,31,Early Iron Age,2,420-1050 AD,Macrofossil,Cfa,Parinari,1,Parinari,Chrysobalanaceae,Native subsistence plant,Mobola plum
+Ndondondwane,NDD_6,South Africa,-28.9,31,Early Iron Age,2,420-1050 AD,Macrofossil,Cfa,Sclerocarya_caffra,1,Sclerocarya birrea subsp. afra,Anacardiaceae,Native subsistence plant,Marula
+Ndondondwane,NDD_7,South Africa,-28.9,31,Early Iron Age,2,420-1050 AD,Macrofossil,Cfa,Dovyalis,1,,,,
+Ndondondwane,NDD_7,South Africa,-28.9,31,Early Iron Age,2,420-1050 AD,Macrofossil,Cfa,Galium,1,Galium,Rubiaceae,Other (mixed flora),
+Ndondondwane,NDD_7,South Africa,-28.9,31,Early Iron Age,2,420-1050 AD,Macrofossil,Cfa,Grewia,1,Grewia,Malvaceae,Native subsistence plant,Raisin bush
+Ndondondwane,NDD_7,South Africa,-28.9,31,Early Iron Age,2,420-1050 AD,Macrofossil,Cfa,Lamiaceae,1,Salvia,Lamiaceae,Other (mixed flora),
+Ndondondwane,NDD_7,South Africa,-28.9,31,Early Iron Age,2,420-1050 AD,Macrofossil,Cfa,Lantana,1,Lantana,Verbenaceae,Other (mixed flora),
+Ndondondwane,NDD_7,South Africa,-28.9,31,Early Iron Age,2,420-1050 AD,Macrofossil,Cfa,Sclerocarya_caffra,1,Sclerocarya birrea subsp. afra,Anacardiaceae,Native subsistence plant,Marula
+Ndondondwane,NDD_7,South Africa,-28.9,31,Early Iron Age,2,420-1050 AD,Macrofossil,Cfa,Zygophyllaceae,1,Zygophyllaceae,Zygophyllaceae,Other (mixed flora),
+Ndondondwane,NDD_8,South Africa,-28.9,31,Early Iron Age,2,420-1050 AD,Macrofossil,Cfa,Capparidaceae,1,Capparaceae,Capparaceae,Other (mixed flora),
+Ndondondwane,NDD_8,South Africa,-28.9,31,Early Iron Age,2,420-1050 AD,Macrofossil,Cfa,Euphorbia,1,Euphorbia,Euphorbiaceae,Other (mixed flora),
+Ndondondwane,NDD_8,South Africa,-28.9,31,Early Iron Age,2,420-1050 AD,Macrofossil,Cfa,Sclerocarya_caffra,1,Sclerocarya birrea subsp. afra,Anacardiaceae,Native subsistence plant,Marula
+Ndondondwane,NDD_9,South Africa,-28.9,31,Early Iron Age,2,420-1050 AD,Macrofossil,Cfa,Amaranthus,1,Amaranthus,Amaranthaceae,Native subsistence plant,Amaranth
+Ndondondwane,NDD_9,South Africa,-28.9,31,Early Iron Age,2,420-1050 AD,Macrofossil,Cfa,Galenia,1,Aizoon subg. Galenia,Aizoaceae,,
+Schroda,SCH_1,South Africa,-22.1833,29.4333,Middle Iron Age,,900-1100 AD,Macrofossil,BWh,Adansonia_digitata,1,Adansonia digitata,Malvaceae,Introduced from wider Africa,Baobab
+Schroda,SCH_1,South Africa,-22.1833,29.4333,Middle Iron Age,,900-1100 AD,Macrofossil,BWh,Cenchrus_americanus,1,Cenchrus americanus,Poaceae,Introduced from wider Africa,Pearl millet
+Schroda,SCH_1,South Africa,-22.1833,29.4333,Middle Iron Age,,900-1100 AD,Macrofossil,BWh,Citrullus,1,Citrullus,Cucurbitaceae,Native subsistence plant,Wild watermelon
+Schroda,SCH_1,South Africa,-22.1833,29.4333,Middle Iron Age,,900-1100 AD,Macrofossil,BWh,Sclerocarya_birrea,1,Sclerocarya birrea,Anacardiaceae,Native subsistence plant,Marula
+Schroda,SCH_1,South Africa,-22.1833,29.4333,Middle Iron Age,,900-1100 AD,Macrofossil,BWh,Sorghum,1,Sorghum,Poaceae,Introduced from wider Africa,Sorghum
+Schroda,SCH_1,South Africa,-22.1833,29.4333,Middle Iron Age,,900-1100 AD,Macrofossil,BWh,Vigna_radiata,1,Vigna radiata,Fabaceae,Introduced from outside Africa,Mung bean
+Schroda,SCH_1,South Africa,-22.1833,29.4333,Middle Iron Age,,900-1100 AD,Macrofossil,BWh,Vigna_unguiculata,1,Vigna unguiculata,Fabaceae,Introduced from wider Africa,Cowpea
+Schroda,SCH_1,South Africa,-22.1833,29.4333,Middle Iron Age,,900-1100 AD,Macrofossil,BWh,Xanthocercis_zambesiaca,1,Xanthocercis zambesiaca,Fabaceae,Native subsistence plant,Nyala tree
+Scott's Cave,SCC_1,South Africa,-33.7333,24.7833,Later Stone Age,1,,Dessicated,Cfa,Acacia_karroo,1,Vachellia karroo,Fabaceae,Other (mixed flora),
+Scott's Cave,SCC_1,South Africa,-33.7333,24.7833,Later Stone Age,1,,Dessicated,Cfa,Aloe,1,Aloe,Asphodelaceae,Other (mixed flora),
+Scott's Cave,SCC_1,South Africa,-33.7333,24.7833,Later Stone Age,1,,Dessicated,Cfa,Amarantus_paniculatus,1,Amaranthus cruentus,Amaranthaceae,Native subsistence plant,Purple amaranth
+Scott's Cave,SCC_1,South Africa,-33.7333,24.7833,Later Stone Age,1,,Dessicated,Cfa,Cliffortia_illicifolia,1,Cliffortia ilicifolia,Rosaceae,Other (mixed flora),
+Scott's Cave,SCC_1,South Africa,-33.7333,24.7833,Later Stone Age,1,,Dessicated,Cfa,Cynodon_dactylon,1,Cynodon dactylon,Poaceae,Other (mixed flora),
+Scott's Cave,SCC_1,South Africa,-33.7333,24.7833,Later Stone Age,1,,Dessicated,Cfa,Cyperus_cf_sphaerospermus,1,Cyperus sphaerospermus,Cyperaceae,Other (mixed flora),
+Scott's Cave,SCC_1,South Africa,-33.7333,24.7833,Later Stone Age,1,,Dessicated,Cfa,Cyperus_textilis,1,Cyperus alternifolius subsp. textilis,Cyperaceae,Other (mixed flora),
+Scott's Cave,SCC_1,South Africa,-33.7333,24.7833,Later Stone Age,1,,Dessicated,Cfa,Cyperus_usitatus,1,Cyperus usitatus,Cyperaceae,Other (mixed flora),
+Scott's Cave,SCC_1,South Africa,-33.7333,24.7833,Later Stone Age,1,,Dessicated,Cfa,Danthonia,1,Danthonia,Poaceae,Other (mixed flora),
+Scott's Cave,SCC_1,South Africa,-33.7333,24.7833,Later Stone Age,1,,Dessicated,Cfa,Digitaria,1,Digitaria,Poaceae,Other (mixed flora),
+Scott's Cave,SCC_1,South Africa,-33.7333,24.7833,Later Stone Age,1,,Dessicated,Cfa,Dioscorea,1,Dioscorea,Dioscoreaceae,Native subsistence plant,Wild yam
+Scott's Cave,SCC_1,South Africa,-33.7333,24.7833,Later Stone Age,1,,Dessicated,Cfa,Emex_australis,1,Emex australis,Polygonaceae,Other (mixed flora),
+Scott's Cave,SCC_1,South Africa,-33.7333,24.7833,Later Stone Age,1,,Dessicated,Cfa,Freezia_tritonia,1,Iridaceae,Iridaceae,Other (mixed flora),
+Scott's Cave,SCC_1,South Africa,-33.7333,24.7833,Later Stone Age,1,,Dessicated,Cfa,Prionium_serratum,1,Prionium serratum,Thurniaceae,Other (mixed flora),
+Scott's Cave,SCC_1,South Africa,-33.7333,24.7833,Later Stone Age,1,,Dessicated,Cfa,Schotia_afra,1,Schotia afra var. afra,Fabaceae,Native subsistence plant,Karoo boer-bean
+Scott's Cave,SCC_1,South Africa,-33.7333,24.7833,Later Stone Age,1,,Dessicated,Cfa,Setaria_neglecta,1,Setaria sphacelata,Poaceae,Other (mixed flora),
+Scott's Cave,SCC_1,South Africa,-33.7333,24.7833,Later Stone Age,1,,Dessicated,Cfa,Vepris_undulata,1,Vepris lanceolata,Rutaceae,Other (mixed flora),
+Scott's Cave,SCC_1,South Africa,-33.7333,24.7833,Later Stone Age,1,,Dessicated,Cfa,Watsonia,1,Watsonia,Iridaceae,Other (mixed flora),
+Scott's Cave,SCC_2,South Africa,-33.7333,24.7833,Later Stone Age,3,,Dessicated,Cfa,Cliffortia_illicifolia,1,Cliffortia ilicifolia,Rosaceae,Other (mixed flora),
+Scott's Cave,SCC_2,South Africa,-33.7333,24.7833,Later Stone Age,3,,Dessicated,Cfa,Cyperus_textilis,1,Cyperus alternifolius subsp. textilis,Cyperaceae,Other (mixed flora),
+Scott's Cave,SCC_2,South Africa,-33.7333,24.7833,Later Stone Age,3,,Dessicated,Cfa,Cyperus_usitatus,1,Cyperus usitatus,Cyperaceae,Other (mixed flora),
+Scott's Cave,SCC_2,South Africa,-33.7333,24.7833,Later Stone Age,3,,Dessicated,Cfa,Freezia_tritonia,1,Iridaceae,Iridaceae,Other (mixed flora),
+Scott's Cave,SCC_2,South Africa,-33.7333,24.7833,Later Stone Age,3,,Dessicated,Cfa,Medicago_denticulata,1,Medicago polymorpha,Fabaceae,Other (mixed flora),
+Scott's Cave,SCC_2,South Africa,-33.7333,24.7833,Later Stone Age,3,,Dessicated,Cfa,Schotia_afra,1,Schotia afra var. afra,Fabaceae,Native subsistence plant,Karoo boer-bean
+Shongweni,SHO_1,South Africa,-29.8794,30.720833,Early Iron Age,,100-200 AD,Dessicated,Cfa,Eleusine_coracana,1,Eleusine coracana,Poaceae,Introduced from wider Africa,Finger millet
+Shongweni,SHO_1,South Africa,-29.8794,30.720833,Early Iron Age,,100-200 AD,Dessicated,Cfa,Pennisetum_americanum,1,Cenchrus americanus,Poaceae,Introduced from wider Africa,Pearl millet
+Shongweni,SHO_2,South Africa,-29.8794,30.720833,Early Iron Age,,700-800 AD,Dessicated,Cfa,Eleusine_coracana,1,Eleusine coracana,Poaceae,Introduced from wider Africa,Finger millet
+Shongweni,SHO_2,South Africa,-29.8794,30.720833,Early Iron Age,,700-800 AD,Dessicated,Cfa,Lagenaria_siceraria,1,Lagenaria siceraria,Cucurbitaceae,Native subsistence plant,Bottle gourd
+Shongweni,SHO_3,South Africa,-29.8794,30.720833,Early Iron Age,,800-1200 AD,Dessicated,Cfa,Sorghum,1,Sorghum,Poaceae,Introduced from wider Africa,Sorghum
+Shongweni,SHO_4,South Africa,-29.8794,30.720833,Early Iron Age,,1200-1300 AD,Dessicated,Cfa,Sorghum,1,Sorghum,Poaceae,Introduced from wider Africa,Sorghum
+Shongweni,SHO_5,South Africa,-29.8794,30.720833,Early Iron Age,,100-1300 AD,Dessicated,Cfa,Argyrolobium,1,Argyrolobium,Fabaceae,Other (mixed flora),
+Shongweni,SHO_5,South Africa,-29.8794,30.720833,Early Iron Age,,100-1300 AD,Dessicated,Cfa,Bauhinia_tomentosa,1,Bauhinia tomentosa,Fabaceae,Other (mixed flora),
+Shongweni,SHO_5,South Africa,-29.8794,30.720833,Early Iron Age,,100-1300 AD,Dessicated,Cfa,Bersama,1,Bersama,Francoaceae,Other (mixed flora),
+Shongweni,SHO_5,South Africa,-29.8794,30.720833,Early Iron Age,,100-1300 AD,Dessicated,Cfa,Citrullus_lanatus,1,Citrullus lanatus,Cucurbitaceae,Native subsistence plant,Tsamma melon
+Shongweni,SHO_5,South Africa,-29.8794,30.720833,Early Iron Age,,100-1300 AD,Dessicated,Cfa,Combretum,1,Combretum,Combretaceae,Other (mixed flora),
+Shongweni,SHO_5,South Africa,-29.8794,30.720833,Early Iron Age,,100-1300 AD,Dessicated,Cfa,Commiphora,1,Commiphora,Burseraceae,Other (mixed flora),
+Shongweni,SHO_5,South Africa,-29.8794,30.720833,Early Iron Age,,100-1300 AD,Dessicated,Cfa,Dalbergia,1,Dalbergia,Fabaceae,Other (mixed flora),
+Shongweni,SHO_5,South Africa,-29.8794,30.720833,Early Iron Age,,100-1300 AD,Dessicated,Cfa,Dialium_schlecteri,1,Dialium schlechteri,Fabaceae,Native subsistence plant,
+Shongweni,SHO_5,South Africa,-29.8794,30.720833,Early Iron Age,,100-1300 AD,Dessicated,Cfa,Dolichos,1,Dolichos,Fabaceae,Other (mixed flora),
+Shongweni,SHO_5,South Africa,-29.8794,30.720833,Early Iron Age,,100-1300 AD,Dessicated,Cfa,Drypetes,1,Drypetes,Putranjivaceae,Other (mixed flora),
+Shongweni,SHO_5,South Africa,-29.8794,30.720833,Early Iron Age,,100-1300 AD,Dessicated,Cfa,Grewia,1,Grewia,Malvaceae,Native subsistence plant,Raisin bush
+Shongweni,SHO_5,South Africa,-29.8794,30.720833,Early Iron Age,,100-1300 AD,Dessicated,Cfa,Harpephyllum_caffrum,1,Harpephyllum afrum,Anacardiaceae,Native subsistence plant,
+Shongweni,SHO_5,South Africa,-29.8794,30.720833,Early Iron Age,,100-1300 AD,Dessicated,Cfa,Milletia_grandis,1,Millettia grandis,Fabaceae,Other (mixed flora),
+Shongweni,SHO_5,South Africa,-29.8794,30.720833,Early Iron Age,,100-1300 AD,Dessicated,Cfa,Sapium_integerrimum,1,Sclerocroton integerrimus,Euphorbiaceae,Other (mixed flora),
+Shongweni,SHO_5,South Africa,-29.8794,30.720833,Early Iron Age,,100-1300 AD,Dessicated,Cfa,Schotia_brachypetala,1,Schotia brachypetala,Fabaceae,Native subsistence plant,
+Shongweni,SHO_5,South Africa,-29.8794,30.720833,Early Iron Age,,100-1300 AD,Dessicated,Cfa,Sclerocarya_caffra,1,Sclerocarya birrea subsp. afra,Anacardiaceae,Native subsistence plant,Marula
+Shongweni,SHO_5,South Africa,-29.8794,30.720833,Early Iron Age,,100-1300 AD,Dessicated,Cfa,Strelitzia_nicolai,1,Strelitzia nicolai,Strelitziaceae,Other (mixed flora),
+Shongweni,SHO_5,South Africa,-29.8794,30.720833,Early Iron Age,,100-1300 AD,Dessicated,Cfa,Stychnos,1,Strychnos,Loganiaceae,Native subsistence plant,
+Shongweni,SHO_5,South Africa,-29.8794,30.720833,Early Iron Age,,100-1300 AD,Dessicated,Cfa,Toddaliopsis,1,Vepris,Rutaceae,Other (mixed flora),
+Silver Leaves,SL_1,South Africa,-23.922778,30.143333,Early Iron Age,,300 AD,Macrofossil,Cwb,Pennisetum_americanum,1,Cenchrus americanus,Poaceae,Introduced from wider Africa,Pearl millet
+Vryheid,VRY_1,South Africa,-22.36,30.4,Middle Iron Age,,1200 AD,Macrofossil,BSh,Adiagnostic,1,Adiagnostic,,Other (mixed flora),
+Vryheid,VRY_1,South Africa,-22.36,30.4,Middle Iron Age,,1200 AD,Macrofossil,BSh,Cenchrus_americanus,1,Cenchrus americanus,Poaceae,Introduced from wider Africa,Pearl millet
+Vryheid,VRY_1,South Africa,-22.36,30.4,Middle Iron Age,,1200 AD,Macrofossil,BSh,Chenopodium,1,Chenopodium,Amaranthaceae,Native subsistence plant,Goosefoot
+Vryheid,VRY_1,South Africa,-22.36,30.4,Middle Iron Age,,1200 AD,Macrofossil,BSh,Gossypium,1,Gossypium,Malvaceae,Other (mixed flora),
+Vryheid,VRY_1,South Africa,-22.36,30.4,Middle Iron Age,,1200 AD,Macrofossil,BSh,Grewia,1,Grewia,Malvaceae,Native subsistence plant,Raisin bush
+Vryheid,VRY_1,South Africa,-22.36,30.4,Middle Iron Age,,1200 AD,Macrofossil,BSh,Vachellia_Senegalia,1,Vachellia/ Senegalia,Fabaceae,Other (mixed flora),
+Fibobe II,FBB_1,Zambia,-14.278528,28.622833,Early Iron Age,,750 - 850 AD,Macrofossil,Cwa,Adiagnostic,1,Adiagnostic,,Other (mixed flora),
+Fibobe II,FBB_1,Zambia,-14.278528,28.622833,Early Iron Age,,750 - 850 AD,Macrofossil,Cwa,Eleusine_sp,1,Eleusine,Poaceae,Other (mixed flora),
+Fibobe II,FBB_1,Zambia,-14.278528,28.622833,Early Iron Age,,750 - 850 AD,Macrofossil,Cwa,Euphorbiaceae,1,Euphorbiaceae,Euphorbiaceae,Other (mixed flora),
+Fibobe II,FBB_1,Zambia,-14.278528,28.622833,Early Iron Age,,750 - 850 AD,Macrofossil,Cwa,Fabaceae_cf,1,Fabaceae,Fabaceae,Other (mixed flora),
+Fibobe II,FBB_1,Zambia,-14.278528,28.622833,Early Iron Age,,750 - 850 AD,Macrofossil,Cwa,Nutshell_indet,1,,,,
+Fibobe II,FBB_1,Zambia,-14.278528,28.622833,Early Iron Age,,750 - 850 AD,Macrofossil,Cwa,Pedaliaceae,1,Pedaliaceae,Pedaliaceae,Other (mixed flora),
+Fibobe II,FBB_2,Zambia,-14.278528,28.622833,Early Iron Age,,750 - 850 AD,Macrofossil,Cwa,Adiagnostic,1,Adiagnostic,,Other (mixed flora),
+Fibobe II,FBB_2,Zambia,-14.278528,28.622833,Early Iron Age,,750 - 850 AD,Macrofossil,Cwa,Amaranthaceae_cf,1,Amaranthaceae,Amaranthaceae,Other (mixed flora),
+Fibobe II,FBB_2,Zambia,-14.278528,28.622833,Early Iron Age,,750 - 850 AD,Macrofossil,Cwa,Eleusine_sp,1,Eleusine,Poaceae,Other (mixed flora),
+Fibobe II,FBB_2,Zambia,-14.278528,28.622833,Early Iron Age,,750 - 850 AD,Macrofossil,Cwa,Euphorbiaceae,1,Euphorbiaceae,Euphorbiaceae,Other (mixed flora),
+Fibobe II,FBB_2,Zambia,-14.278528,28.622833,Early Iron Age,,750 - 850 AD,Macrofossil,Cwa,Nutshell_indet,1,,,,
+Fibobe II,FBB_2,Zambia,-14.278528,28.622833,Early Iron Age,,750 - 850 AD,Macrofossil,Cwa,Panicoid_indet,1,Panicoideae,Poaceae,Other (mixed flora),
+Fibobe II,FBB_3,Zambia,-14.278528,28.622833,Early Iron Age,,750 - 850 AD,Macrofossil,Cwa,Adiagnostic,1,Adiagnostic,,Other (mixed flora),
+Fibobe II,FBB_3,Zambia,-14.278528,28.622833,Early Iron Age,,750 - 850 AD,Macrofossil,Cwa,Nutshell_indet,1,,,,
+Fibobe II,FBB_4,Zambia,-14.278528,28.622833,Early Iron Age,,750 - 850 AD,Macrofossil,Cwa,Adiagnostic,1,Adiagnostic,,Other (mixed flora),
+Fibobe II,FBB_4,Zambia,-14.278528,28.622833,Early Iron Age,,750 - 850 AD,Macrofossil,Cwa,Eleusine_sp,1,Eleusine,Poaceae,Other (mixed flora),
+Fibobe II,FBB_4,Zambia,-14.278528,28.622833,Early Iron Age,,750 - 850 AD,Macrofossil,Cwa,Euphorbiaceae,1,Euphorbiaceae,Euphorbiaceae,Other (mixed flora),
+Fibobe II,FBB_4,Zambia,-14.278528,28.622833,Early Iron Age,,750 - 850 AD,Macrofossil,Cwa,Fabaceae_cf,1,Fabaceae,Fabaceae,Other (mixed flora),
+Fibobe II,FBB_4,Zambia,-14.278528,28.622833,Early Iron Age,,750 - 850 AD,Macrofossil,Cwa,Nutshell_indet,1,,,,
+Fibobe II,FBB_5,Zambia,-14.278528,28.622833,Early Iron Age,,750 - 850 AD,Macrofossil,Cwa,Adiagnostic,1,Adiagnostic,,Other (mixed flora),
+Fibobe II,FBB_5,Zambia,-14.278528,28.622833,Early Iron Age,,750 - 850 AD,Macrofossil,Cwa,Eleusine_sp,1,Eleusine,Poaceae,Other (mixed flora),
+Fibobe II,FBB_5,Zambia,-14.278528,28.622833,Early Iron Age,,750 - 850 AD,Macrofossil,Cwa,Nutshell_indet,1,,,,
+Fibobe II,FBB_5,Zambia,-14.278528,28.622833,Early Iron Age,,750 - 850 AD,Macrofossil,Cwa,Panicoid_indet,1,Panicoideae,Poaceae,Other (mixed flora),
+Fibobe II,FBB_6,Zambia,-14.278528,28.622833,Early Iron Age,,750 - 850 AD,Macrofossil,Cwa,Adiagnostic,1,Adiagnostic,,Other (mixed flora),
+Fibobe II,FBB_6,Zambia,-14.278528,28.622833,Early Iron Age,,750 - 850 AD,Macrofossil,Cwa,Fabaceae_cf,1,Fabaceae,Fabaceae,Other (mixed flora),
+Fibobe II,FBB_6,Zambia,-14.278528,28.622833,Early Iron Age,,750 - 850 AD,Macrofossil,Cwa,Nutshell_indet,1,,,,
+Fibobe II,FBB_6,Zambia,-14.278528,28.622833,Early Iron Age,,750 - 850 AD,Macrofossil,Cwa,Panicoid_indet,1,Panicoideae,Poaceae,Other (mixed flora),
+Fibobe II,FBB_7,Zambia,-14.278528,28.622833,Early Iron Age,,800 AD,Macrofossil,Cwa,Voandzeia_subterranea,1,Vigna subterranea,Fabaceae,Introduced from wider Africa,Bambara groundnut
+Ingombe Ilede,ING_1,Zambia,-16.16,28.804167,Early Iron Age,,600-700 AD,Macrofossil,BSh,Sorghum,1,Sorghum,Poaceae,Introduced from wider Africa,Sorghum
+Kalundu Mound,KLM_1,Zambia,-17,26.5,Late Iron Age,,1190 - 1410 AD,Macrofossil,BSh,Ficus_leaf_imprint,1,Ficus,Moraceae,Native subsistence plant,Fig
+Kalundu Mound,KLM_1,Zambia,-17,26.5,Late Iron Age,,1190 - 1410 AD,Macrofossil,BSh,Parinari_curatellifolia,1,Parinari curatellifolia,Chrysobalanaceae,Native subsistence plant,Mobola plum
+Kalundu Mound,KLM_1,Zambia,-17,26.5,Late Iron Age,,1190 - 1410 AD,Macrofossil,BSh,Pseudolachnostylis_maprouneifolia,1,Pseudolachnostylis maprouneifolia,Phyllanthaceae,Other (mixed flora),
+Kalundu Mound,KLM_1,Zambia,-17,26.5,Late Iron Age,,1190 - 1410 AD,Macrofossil,BSh,Sorghum_bicolor,1,Sorghum bicolor,Poaceae,Introduced from wider Africa,Sorghum
+Kalundu Mound,KLM_1,Zambia,-17,26.5,Late Iron Age,,1190 - 1410 AD,Macrofossil,BSh,Uapaca_kirkiana,1,Uapaca kirkiana,Phyllanthaceae,Native subsistence plant,Wild loquat
+Kalundu Mound,KLM_2,Zambia,-17,26.5,Late Iron Age,,1190 - 1410 AD,Macrofossil,BSh,Adiagnostic,1,Adiagnostic,,Other (mixed flora),
+Kalundu Mound,KLM_2,Zambia,-17,26.5,Late Iron Age,,1190 - 1410 AD,Macrofossil,BSh,Aizoaceae,1,Aizoaceae,Aizoaceae,Other (mixed flora),
+Kalundu Mound,KLM_2,Zambia,-17,26.5,Late Iron Age,,1190 - 1410 AD,Macrofossil,BSh,Eleusine_coracana,1,Eleusine coracana,Poaceae,Introduced from wider Africa,Finger millet
+Kalundu Mound,KLM_2,Zambia,-17,26.5,Late Iron Age,,1190 - 1410 AD,Macrofossil,BSh,Eleusine_coracana_cf,1,Eleusine coracana,Poaceae,Introduced from wider Africa,Finger millet
+Kalundu Mound,KLM_2,Zambia,-17,26.5,Late Iron Age,,1190 - 1410 AD,Macrofossil,BSh,Parenchyma,1,,,,
+Kalundu Mound,KLM_2,Zambia,-17,26.5,Late Iron Age,,1190 - 1410 AD,Macrofossil,BSh,Parinari_curatellifolia,1,Parinari curatellifolia,Chrysobalanaceae,Native subsistence plant,Mobola plum
+Kalundu Mound,KLM_2,Zambia,-17,26.5,Late Iron Age,,1190 - 1410 AD,Macrofossil,BSh,Sorghum_bicolor,1,Sorghum bicolor,Poaceae,Introduced from wider Africa,Sorghum
+Kalundu Mound,KLM_3,Zambia,-17,26.5,Late Iron Age,,1190 - 1410 AD,Macrofossil,BSh,Adiagnostic,1,Adiagnostic,,Other (mixed flora),
+Kalundu Mound,KLM_3,Zambia,-17,26.5,Late Iron Age,,1190 - 1410 AD,Macrofossil,BSh,Eleusine_coracana_cf,1,Eleusine coracana,Poaceae,Introduced from wider Africa,Finger millet
+Kalundu Mound,KLM_3,Zambia,-17,26.5,Late Iron Age,,1190 - 1410 AD,Macrofossil,BSh,Panicoideae,1,Panicoideae,Poaceae,Other (mixed flora),
+Kalundu Mound,KLM_3,Zambia,-17,26.5,Late Iron Age,,1190 - 1410 AD,Macrofossil,BSh,Parenchyma,1,,,,
+Kalundu Mound,KLM_3,Zambia,-17,26.5,Late Iron Age,,1190 - 1410 AD,Macrofossil,BSh,Parinari_curatellifolia,1,Parinari curatellifolia,Chrysobalanaceae,Native subsistence plant,Mobola plum
+Kalundu Mound,KLM_3,Zambia,-17,26.5,Late Iron Age,,1190 - 1410 AD,Macrofossil,BSh,Poaceae,1,Poaceae,Poaceae,Other (mixed flora),
+Kalundu Mound,KLM_3,Zambia,-17,26.5,Late Iron Age,,1190 - 1410 AD,Macrofossil,BSh,Poaceae_glume,1,Poaceae,Poaceae,Other (mixed flora),
+Kalundu Mound,KLM_3,Zambia,-17,26.5,Late Iron Age,,1190 - 1410 AD,Macrofossil,BSh,Sorghum_bicolor_glume,1,Sorghum bicolor,Poaceae,Introduced from wider Africa,Sorghum
+Kalundu Mound,KLM_4,Zambia,-17,26.5,Late Iron Age,,1190 - 1410 AD,Macrofossil,BSh,Adiagnostic,1,Adiagnostic,,Other (mixed flora),
+Kalundu Mound,KLM_4,Zambia,-17,26.5,Late Iron Age,,1190 - 1410 AD,Macrofossil,BSh,Eleusine_coracana_cf,1,Eleusine coracana,Poaceae,Introduced from wider Africa,Finger millet
+Kalundu Mound,KLM_4,Zambia,-17,26.5,Late Iron Age,,1190 - 1410 AD,Macrofossil,BSh,Eleusine_coracana_ssp._africana_cf,1,Eleusine africana,Poaceae,Other (mixed flora),
+Kalundu Mound,KLM_4,Zambia,-17,26.5,Late Iron Age,,1190 - 1410 AD,Macrofossil,BSh,Panicoideae,1,Panicoideae,Poaceae,Other (mixed flora),
+Kalundu Mound,KLM_4,Zambia,-17,26.5,Late Iron Age,,1190 - 1410 AD,Macrofossil,BSh,Panicoideae_cf,1,Panicoideae,Poaceae,Other (mixed flora),
+Kalundu Mound,KLM_4,Zambia,-17,26.5,Late Iron Age,,1190 - 1410 AD,Macrofossil,BSh,Parenchyma,1,,,,
+Kalundu Mound,KLM_4,Zambia,-17,26.5,Late Iron Age,,1190 - 1410 AD,Macrofossil,BSh,Parinari_curatellifolia,1,Parinari curatellifolia,Chrysobalanaceae,Native subsistence plant,Mobola plum
+Kalundu Mound,KLM_4,Zambia,-17,26.5,Late Iron Age,,1190 - 1410 AD,Macrofossil,BSh,Pennisetum_glaucum_cf,1,Cenchrus americanus,Poaceae,Introduced from wider Africa,Pearl millet
+Kalundu Mound,KLM_5,Zambia,-17,26.5,Late Iron Age,,1190 - 1410 AD,Macrofossil,BSh,Adiagnostic,1,Adiagnostic,,Other (mixed flora),
+Kalundu Mound,KLM_5,Zambia,-17,26.5,Late Iron Age,,1190 - 1410 AD,Macrofossil,BSh,Eleusine_coracana,1,Eleusine coracana,Poaceae,Introduced from wider Africa,Finger millet
+Kalundu Mound,KLM_5,Zambia,-17,26.5,Late Iron Age,,1190 - 1410 AD,Macrofossil,BSh,Fabaceae_cf_Elephantorrhiza,1,Entada,Fabaceae,Other (mixed flora),
+Kalundu Mound,KLM_5,Zambia,-17,26.5,Late Iron Age,,1190 - 1410 AD,Macrofossil,BSh,Panicoideae,1,Panicoideae,Poaceae,Other (mixed flora),
+Kalundu Mound,KLM_5,Zambia,-17,26.5,Late Iron Age,,1190 - 1410 AD,Macrofossil,BSh,Panicoideae_cf,1,Panicoideae,Poaceae,Other (mixed flora),
+Kalundu Mound,KLM_5,Zambia,-17,26.5,Late Iron Age,,1190 - 1410 AD,Macrofossil,BSh,Parenchyma,1,,,,
+Kalundu Mound,KLM_5,Zambia,-17,26.5,Late Iron Age,,1190 - 1410 AD,Macrofossil,BSh,Parinari_curatellifolia,1,Parinari curatellifolia,Chrysobalanaceae,Native subsistence plant,Mobola plum
+Kalundu Mound,KLM_5,Zambia,-17,26.5,Late Iron Age,,1190 - 1410 AD,Macrofossil,BSh,Poaceae_glume,1,Poaceae,Poaceae,Other (mixed flora),
+Kalundu Mound,KLM_6,Zambia,-17,26.5,Late Iron Age,,1190 - 1410 AD,Macrofossil,BSh,Parinari_curatellifolia,1,Parinari curatellifolia,Chrysobalanaceae,Native subsistence plant,Mobola plum
+Kalundu Mound,KLM_7,Zambia,-17,26.5,Late Iron Age,,1190 - 1410 AD,Macrofossil,BSh,Fabaceae_cf_Elephantorrhiza,1,Entada,Fabaceae,Other (mixed flora),
+Kalundu Mound,KLM_7,Zambia,-17,26.5,Late Iron Age,,1190 - 1410 AD,Macrofossil,BSh,Parinari_curatellifolia,1,Parinari curatellifolia,Chrysobalanaceae,Native subsistence plant,Mobola plum
+Kalundu Mound,KLM_8,Zambia,-17,26.5,Late Iron Age,,1190 - 1410 AD,Macrofossil,BSh,Fabaceae_cf_Elephantorrhiza,1,Entada,Fabaceae,Other (mixed flora),
+Kalundu Mound,KLM_8,Zambia,-17,26.5,Late Iron Age,,1190 - 1410 AD,Macrofossil,BSh,Parinari_curatellifolia,1,Parinari curatellifolia,Chrysobalanaceae,Native subsistence plant,Mobola plum
+Kalundu Mound,KLM_9,Zambia,-17,26.5,Late Iron Age,,1190 - 1410 AD,Macrofossil,BSh,Fabaceae_cf_Elephantorrhiza,1,Entada,Fabaceae,Other (mixed flora),
+Kalundu Mound,KLM_9,Zambia,-17,26.5,Late Iron Age,,1190 - 1410 AD,Macrofossil,BSh,Parinari_curatellifolia,1,Parinari curatellifolia,Chrysobalanaceae,Native subsistence plant,Mobola plum
+M'teteshi 1,MTSH_1,Zambia,-14.2792,28.5959,Early Iron Age,,100 AD,Macrofossil,Cwa,Ehrharta_wild_grass,1,Ehrharta,Poaceae,Other (mixed flora),
+M'teteshi 1,MTSH_1,Zambia,-14.2792,28.5959,Early Iron Age,,100 AD,Macrofossil,Cwa,Sorghum,1,Sorghum,Poaceae,Introduced from wider Africa,Sorghum
+M'teteshi 1,MTSH_1,Zambia,-14.2792,28.5959,Early Iron Age,,100 AD,Macrofossil,Cwa,Vigna,1,Vigna,Fabaceae,Other (mixed flora),
+M'teteshi 1,MTSH_1,Zambia,-14.2792,28.5959,Early Iron Age,,100 AD,Macrofossil,Cwa,Wild_grass_unid,1,Poaceae,Poaceae,Other (mixed flora),
+Mondake 1,MOND_1,Zambia,-14.3389,28.6167,Early Iron Age,,600 AD,Macrofossil,Cwa,Sorghum,1,Sorghum,Poaceae,Introduced from wider Africa,Sorghum
+Mondake 1,MOND_1,Zambia,-14.3389,28.6167,Early Iron Age,,600 AD,Macrofossil,Cwa,Vigna_unguiculata,1,Vigna unguiculata,Fabaceae,Introduced from wider Africa,Cowpea
+Mondake 1,MOND_2,Zambia,-14.3389,28.6167,Early Iron Age,,600 AD,Macrofossil,Cwa,,,,,,
+Great Zimbabwe,GZ_1,Zimbabwe,-20.2714,30.9332,Late Iron Age,,1280 +- 45 AD,Macrofossil,Cwa,Sorghum_bicolor,1,Sorghum bicolor,Poaceae,Introduced from wider Africa,Sorghum
+Great Zimbabwe,GZ_17,Zimbabwe,-20.2714,30.9332,Late Iron Age,,,Macrofossil,Cwa,Brachiaria_eruciformis,1,Brachiaria eruciformis,Poaceae,Other (mixed flora),
+Great Zimbabwe,GZ_17,Zimbabwe,-20.2714,30.9332,Late Iron Age,,,Macrofossil,Cwa,Dactylactenium_aegyptium,1,Dactyloctenium aegyptium,Poaceae,Other (mixed flora),
+Great Zimbabwe,GZ_17,Zimbabwe,-20.2714,30.9332,Late Iron Age,,,Macrofossil,Cwa,Eleusine_indica,1,Eleusine indica,Poaceae,Other (mixed flora),
+Great Zimbabwe,GZ_17,Zimbabwe,-20.2714,30.9332,Late Iron Age,,,Macrofossil,Cwa,Eragrostis,1,,,,
+Great Zimbabwe,GZ_17,Zimbabwe,-20.2714,30.9332,Late Iron Age,,,Macrofossil,Cwa,Pannicum_maximum,1,Panicum maximum,Poaceae,Other (mixed flora),
+Great Zimbabwe,GZ_17,Zimbabwe,-20.2714,30.9332,Late Iron Age,,,Macrofossil,Cwa,Poaceae,1,Poaceae,Poaceae,Other (mixed flora),
+Great Zimbabwe,GZ_17,Zimbabwe,-20.2714,30.9332,Late Iron Age,,,Macrofossil,Cwa,Sorghum_bicolor_var_caffra,1,Sorghum bicolor,Poaceae,Introduced from wider Africa,Sorghum
+Great Zimbabwe,GZ_17,Zimbabwe,-20.2714,30.9332,Late Iron Age,,,Macrofossil,Cwa,Sporobolus_pyramidalis,1,Sporobolus pyramidalis,Poaceae,Other (mixed flora),
+Great Zimbabwe,GZ_17,Zimbabwe,-20.2714,30.9332,Late Iron Age,,,Macrofossil,Cwa,Voandzeia_subterranea,1,Vigna subterranea,Fabaceae,Introduced from wider Africa,Bambara groundnut
+Great Zimbabwe,GZ_2,Zimbabwe,-20.2714,30.9332,Late Iron Age,1,1150-1600 AD,Macrofossil,Cwa,Brachiaria_deflexa,1,Brachiaria deflexa,Poaceae,Other (mixed flora),
+Great Zimbabwe,GZ_2,Zimbabwe,-20.2714,30.9332,Late Iron Age,1,1150-1600 AD,Macrofossil,Cwa,Brachiaria_eruciformis,1,Brachiaria eruciformis,Poaceae,Other (mixed flora),
+Great Zimbabwe,GZ_2,Zimbabwe,-20.2714,30.9332,Late Iron Age,1,1150-1600 AD,Macrofossil,Cwa,Pannicum_maximum,1,Panicum maximum,Poaceae,Other (mixed flora),
+Great Zimbabwe,GZ_2,Zimbabwe,-20.2714,30.9332,Late Iron Age,1,1150-1600 AD,Macrofossil,Cwa,Sporobolus_pyramidalis,1,Sporobolus pyramidalis,Poaceae,Other (mixed flora),
+Great Zimbabwe,GZ_3,Zimbabwe,-20.2714,30.9332,Late Iron Age,2,1150-1600 AD,Macrofossil,Cwa,Brachiaria_eruciformis,1,Brachiaria eruciformis,Poaceae,Other (mixed flora),
+Great Zimbabwe,GZ_3,Zimbabwe,-20.2714,30.9332,Late Iron Age,2,1150-1600 AD,Macrofossil,Cwa,Pannicum_maximum,1,Panicum maximum,Poaceae,Other (mixed flora),
+Great Zimbabwe,GZ_3,Zimbabwe,-20.2714,30.9332,Late Iron Age,2,1150-1600 AD,Macrofossil,Cwa,Seasonal_bush/grass,1,Poaceae,Poaceae,Other (mixed flora),
+Great Zimbabwe,GZ_4,Zimbabwe,-20.2714,30.9332,Late Iron Age,3,1150-1600 AD,Macrofossil,Cwa,Pannicum_maximum,1,Panicum maximum,Poaceae,Other (mixed flora),
+Great Zimbabwe,GZ_4,Zimbabwe,-20.2714,30.9332,Late Iron Age,3,1150-1600 AD,Macrofossil,Cwa,Sporobolus_pyramidalis,1,Sporobolus pyramidalis,Poaceae,Other (mixed flora),
+Great Zimbabwe,GZ_5,Zimbabwe,-20.2714,30.9332,Modern,Surface,Modern,Macrofossil,Cwa,Ficus,1,Ficus,Moraceae,Native subsistence plant,Fig
+Great Zimbabwe,GZ_5,Zimbabwe,-20.2714,30.9332,Modern,Surface,Modern,Macrofossil,Cwa,Parinari_curatellifolia,1,Parinari curatellifolia,Chrysobalanaceae,Native subsistence plant,Mobola plum
+Great Zimbabwe,GZ_6,Zimbabwe,-20.2714,30.9332,Late Iron Age,1,1150-1600 AD,Macrofossil,Cwa,Voandzeia_subterranea,1,Vigna subterranea,Fabaceae,Introduced from wider Africa,Bambara groundnut
+Great Zimbabwe,GZ_7,Zimbabwe,-20.2714,30.9332,Late Iron Age,2,1150-1600 AD,Macrofossil,Cwa,Adiagnostic,1,Adiagnostic,,Other (mixed flora),
+Great Zimbabwe,GZ_7,Zimbabwe,-20.2714,30.9332,Late Iron Age,2,1150-1600 AD,Macrofossil,Cwa,Brachiaria_deflexa,1,Brachiaria deflexa,Poaceae,Other (mixed flora),
+Great Zimbabwe,GZ_7,Zimbabwe,-20.2714,30.9332,Late Iron Age,2,1150-1600 AD,Macrofossil,Cwa,Brachiaria_eruciformis,1,Brachiaria eruciformis,Poaceae,Other (mixed flora),
+Great Zimbabwe,GZ_7,Zimbabwe,-20.2714,30.9332,Late Iron Age,2,1150-1600 AD,Macrofossil,Cwa,Citrullus_vulgaris_lanatus,1,Citrullus lanatus,Cucurbitaceae,Native subsistence plant,Tsamma melon
+Great Zimbabwe,GZ_7,Zimbabwe,-20.2714,30.9332,Late Iron Age,2,1150-1600 AD,Macrofossil,Cwa,Pannicum_maximum,1,Panicum maximum,Poaceae,Other (mixed flora),
+Great Zimbabwe,GZ_8,Zimbabwe,-20.2714,30.9332,Late Iron Age,3,1150-1600 AD,Macrofossil,Cwa,Acacia,1,Acacia,Fabaceae,,
+Great Zimbabwe,GZ_8,Zimbabwe,-20.2714,30.9332,Late Iron Age,3,1150-1600 AD,Macrofossil,Cwa,Andropogon,1,Andropogon,Poaceae,Other (mixed flora),
+Great Zimbabwe,GZ_8,Zimbabwe,-20.2714,30.9332,Late Iron Age,3,1150-1600 AD,Macrofossil,Cwa,Brachiaria_deflexa,1,Brachiaria deflexa,Poaceae,Other (mixed flora),
+Great Zimbabwe,GZ_8,Zimbabwe,-20.2714,30.9332,Late Iron Age,3,1150-1600 AD,Macrofossil,Cwa,Brachiaria_eruciformis,1,Brachiaria eruciformis,Poaceae,Other (mixed flora),
+Great Zimbabwe,GZ_8,Zimbabwe,-20.2714,30.9332,Late Iron Age,3,1150-1600 AD,Macrofossil,Cwa,Pannicum_maximum,1,Panicum maximum,Poaceae,Other (mixed flora),
+Great Zimbabwe,GZ_8,Zimbabwe,-20.2714,30.9332,Late Iron Age,3,1150-1600 AD,Macrofossil,Cwa,Voandzeia_subterranea,1,Vigna subterranea,Fabaceae,Introduced from wider Africa,Bambara groundnut
+Great Zimbabwe,GZ_9,Zimbabwe,-20.2714,30.9332,Late Iron Age,4,1150-1600 AD,Macrofossil,Cwa,Pannicum_maximum,1,Panicum maximum,Poaceae,Other (mixed flora),
+Kadzi,K_1,Zimbabwe,-16.2244,30.9628,Late Iron Age,,300-400 AD,Macrofossil,BSh,Eleusine_coracana,1,Eleusine coracana,Poaceae,Introduced from wider Africa,Finger millet
+Kadzi,K_2,Zimbabwe,-16.2244,30.9628,Late Iron Age,,700-800 AD,Macrofossil,BSh,Eleusine_coracana,1,Eleusine coracana,Poaceae,Introduced from wider Africa,Finger millet
+Khami,Kh_1,Zimbabwe,-20.143,28.423,Late Iron Age,,1300-1550 AD,Macrofossil,BSh,Arachis_hypogaea,1,Arachis hypogaea,Fabaceae,Introduced from outside Africa,Peanut
+Khami,Kh_1,Zimbabwe,-20.143,28.423,Late Iron Age,,1300-1550 AD,Macrofossil,BSh,Citrullus_vulgaris_lanatus,1,Citrullus lanatus,Cucurbitaceae,Native subsistence plant,Tsamma melon
+Khami,Kh_1,Zimbabwe,-20.143,28.423,Late Iron Age,,1300-1550 AD,Macrofossil,BSh,Cucurmis,1,Cucumis,Cucurbitaceae,Other (mixed flora),
+Khami,Kh_1,Zimbabwe,-20.143,28.423,Late Iron Age,,1300-1550 AD,Macrofossil,BSh,Eleusine_coracana,1,Eleusine coracana,Poaceae,Introduced from wider Africa,Finger millet
+Khami,Kh_1,Zimbabwe,-20.143,28.423,Late Iron Age,,1300-1550 AD,Macrofossil,BSh,Ricinus_communis,1,Ricinus communis,Euphorbiaceae,Introduced from wider Africa,Castor-oil plant
+Khami,Kh_1,Zimbabwe,-20.143,28.423,Late Iron Age,,1300-1550 AD,Macrofossil,BSh,Sclerocarya_birrea,1,Sclerocarya birrea,Anacardiaceae,Native subsistence plant,Marula
+Khami,Kh_1,Zimbabwe,-20.143,28.423,Late Iron Age,,1300-1550 AD,Macrofossil,BSh,Sorghum_bicolor,1,Sorghum bicolor,Poaceae,Introduced from wider Africa,Sorghum
+Khami,Kh_1,Zimbabwe,-20.143,28.423,Late Iron Age,,1300-1550 AD,Macrofossil,BSh,Voandzeia_subterranea,1,Vigna subterranea,Fabaceae,Introduced from wider Africa,Bambara groundnut
+Khami,Kh_2,Zimbabwe,-20.143,28.423,Late Iron Age,,1300-1550 AD,Macrofossil,BSh,Combretum_petersii,1,Combretum imberbe,Combretaceae,Other (mixed flora),
+Khami,Kh_2,Zimbabwe,-20.143,28.423,Late Iron Age,,1300-1550 AD,Macrofossil,BSh,Lagenaria_siceraria,1,Lagenaria siceraria,Cucurbitaceae,Native subsistence plant,Bottle gourd
+Khami,Kh_2,Zimbabwe,-20.143,28.423,Late Iron Age,,1300-1550 AD,Macrofossil,BSh,Mopane,1,Colophospermum mopane,Fabaceae,Native subsistence plant,Mopane
+Khami,Kh_2,Zimbabwe,-20.143,28.423,Late Iron Age,,1300-1550 AD,Macrofossil,BSh,Sclerocarya_birrea,1,Sclerocarya birrea,Anacardiaceae,Native subsistence plant,Marula
+Lanlory,LAN_1,Zimbabwe,-16.760278,29.470833,Early Iron Age,,600-700 AD,Macrofossil,Cwa,Vigna_unguiculata,1,Vigna unguiculata,Fabaceae,Introduced from wider Africa,Cowpea
+Leopard's Kopje,LEO_1,Zimbabwe,-20.136389,28.423889,Early Iron Age,,800-1000 AD,Macrofossil,BSh,Sorghum,1,Sorghum,Poaceae,Introduced from wider Africa,Sorghum
+Leopard's Kopje,LEO_1,Zimbabwe,-20.136389,28.423889,Early Iron Age,,800-1000 AD,Macrofossil,BSh,Vigna_unguiculata,1,Vigna unguiculata,Fabaceae,Introduced from wider Africa,Cowpea
+Leopard's Kopje,LEO_1,Zimbabwe,-20.136389,28.423889,Early Iron Age,,800-1000 AD,Macrofossil,BSh,Voandzeia_subterranea,1,Vigna subterranea,Fabaceae,Introduced from wider Africa,Bambara groundnut
+Leopard's Kopje,LEO_2,Zimbabwe,-20.136389,28.423889,Early Iron Age,,900-1100 AD,Macrofossil,BSh,Eleusine_coracana,1,Eleusine coracana,Poaceae,Introduced from wider Africa,Finger millet
+Leopard's Kopje,LEO_2,Zimbabwe,-20.136389,28.423889,Early Iron Age,,900-1100 AD,Macrofossil,BSh,Sorghum,1,Sorghum,Poaceae,Introduced from wider Africa,Sorghum
+Leopard's Kopje,LEO_2,Zimbabwe,-20.136389,28.423889,Early Iron Age,,900-1100 AD,Macrofossil,BSh,Vigna_unguiculata,1,Vigna unguiculata,Fabaceae,Introduced from wider Africa,Cowpea
+Leopard's Kopje,LEO_2,Zimbabwe,-20.136389,28.423889,Early Iron Age,,900-1100 AD,Macrofossil,BSh,Voandzeia_subterranea,1,Vigna subterranea,Fabaceae,Introduced from wider Africa,Bambara groundnut
+Leopard's Kopje Main Kraal,LKMK_1,Zimbabwe,-20.1167,28.4331,Late Iron Age,F.11,600-1050 AD,Macrofossil,BSh,Sclerocarya_caffra,1,Sclerocarya birrea subsp. afra,Anacardiaceae,Native subsistence plant,Marula
+Leopard's Kopje Main Kraal,LKMK_10,Zimbabwe,-20.1167,28.4331,Late Iron Age,F.10,600-1050 AD,Macrofossil,BSh,Vigna_unguiculata_sinesnsis,1,Vigna unguiculata,Fabaceae,Introduced from wider Africa,Cowpea
+Leopard's Kopje Main Kraal,LKMK_11,Zimbabwe,-20.1167,28.4331,Late Iron Age,BP.6,600-1050 AD,Macrofossil,BSh,Sclerocarya_caffra,1,Sclerocarya birrea subsp. afra,Anacardiaceae,Native subsistence plant,Marula
+Leopard's Kopje Main Kraal,LKMK_12,Zimbabwe,-20.1167,28.4331,Late Iron Age,BP14,600-1050 AD,Macrofossil,BSh,Sclerocarya_caffra,1,Sclerocarya birrea subsp. afra,Anacardiaceae,Native subsistence plant,Marula
+Leopard's Kopje Main Kraal,LKMK_13,Zimbabwe,-20.1167,28.4331,Late Iron Age,BP15,600-1050 AD,Macrofossil,BSh,Sclerocarya_caffra,1,Sclerocarya birrea subsp. afra,Anacardiaceae,Native subsistence plant,Marula
+Leopard's Kopje Main Kraal,LKMK_14,Zimbabwe,-20.1167,28.4331,Late Iron Age,E.4.6,600-1050 AD,Macrofossil,BSh,Sorghum_bicolor,1,Sorghum bicolor,Poaceae,Introduced from wider Africa,Sorghum
+Leopard's Kopje Main Kraal,LKMK_2,Zimbabwe,-20.1167,28.4331,Late Iron Age,F.15,600-1050 AD,Macrofossil,BSh,,,,,,
+Leopard's Kopje Main Kraal,LKMK_3,Zimbabwe,-20.1167,28.4331,Late Iron Age,F.19,600-1050 AD,Macrofossil,BSh,Vigna_unguiculata_sinesnsis,1,Vigna unguiculata,Fabaceae,Introduced from wider Africa,Cowpea
+Leopard's Kopje Main Kraal,LKMK_4,Zimbabwe,-20.1167,28.4331,Late Iron Age,BP.2,600-1050 AD,Macrofossil,BSh,Sclerocarya_caffra,1,Sclerocarya birrea subsp. afra,Anacardiaceae,Native subsistence plant,Marula
+Leopard's Kopje Main Kraal,LKMK_4,Zimbabwe,-20.1167,28.4331,Late Iron Age,BP.2,600-1050 AD,Macrofossil,BSh,Vigna_unguiculata_sinesnsis,1,Vigna unguiculata,Fabaceae,Introduced from wider Africa,Cowpea
+Leopard's Kopje Main Kraal,LKMK_4,Zimbabwe,-20.1167,28.4331,Late Iron Age,BP.2,600-1050 AD,Macrofossil,BSh,Voandzeia_subterranea,1,Vigna subterranea,Fabaceae,Introduced from wider Africa,Bambara groundnut
+Leopard's Kopje Main Kraal,LKMK_5,Zimbabwe,-20.1167,28.4331,Late Iron Age,H2,600-1050 AD,Macrofossil,BSh,Cucurmis,1,Cucumis,Cucurbitaceae,Other (mixed flora),
+Leopard's Kopje Main Kraal,LKMK_5,Zimbabwe,-20.1167,28.4331,Late Iron Age,H2,600-1050 AD,Macrofossil,BSh,Eleusine_coracana,1,Eleusine coracana,Poaceae,Introduced from wider Africa,Finger millet
+Leopard's Kopje Main Kraal,LKMK_5,Zimbabwe,-20.1167,28.4331,Late Iron Age,H2,600-1050 AD,Macrofossil,BSh,Sclerocarya_caffra,1,Sclerocarya birrea subsp. afra,Anacardiaceae,Native subsistence plant,Marula
+Leopard's Kopje Main Kraal,LKMK_5,Zimbabwe,-20.1167,28.4331,Late Iron Age,H2,600-1050 AD,Macrofossil,BSh,Sorghum_bicolor,1,Sorghum bicolor,Poaceae,Introduced from wider Africa,Sorghum
+Leopard's Kopje Main Kraal,LKMK_5,Zimbabwe,-20.1167,28.4331,Late Iron Age,H2,600-1050 AD,Macrofossil,BSh,Vigna_unguiculata_sinesnsis,1,Vigna unguiculata,Fabaceae,Introduced from wider Africa,Cowpea
+Leopard's Kopje Main Kraal,LKMK_5,Zimbabwe,-20.1167,28.4331,Late Iron Age,H2,600-1050 AD,Macrofossil,BSh,Voandzeia_subterranea,1,Vigna subterranea,Fabaceae,Introduced from wider Africa,Bambara groundnut
+Leopard's Kopje Main Kraal,LKMK_6,Zimbabwe,-20.1167,28.4331,Late Iron Age,H8,600-1050 AD,Macrofossil,BSh,Eleusine_coracana,1,Eleusine coracana,Poaceae,Introduced from wider Africa,Finger millet
+Leopard's Kopje Main Kraal,LKMK_6,Zimbabwe,-20.1167,28.4331,Late Iron Age,H8,600-1050 AD,Macrofossil,BSh,Sorghum_bicolor,1,Sorghum bicolor,Poaceae,Introduced from wider Africa,Sorghum
+Leopard's Kopje Main Kraal,LKMK_6,Zimbabwe,-20.1167,28.4331,Late Iron Age,H8,600-1050 AD,Macrofossil,BSh,Vigna_unguiculata_sinesnsis,1,Vigna unguiculata,Fabaceae,Introduced from wider Africa,Cowpea
+Leopard's Kopje Main Kraal,LKMK_6,Zimbabwe,-20.1167,28.4331,Late Iron Age,H8,600-1050 AD,Macrofossil,BSh,Voandzeia_subterranea,1,Vigna subterranea,Fabaceae,Introduced from wider Africa,Bambara groundnut
+Leopard's Kopje Main Kraal,LKMK_7,Zimbabwe,-20.1167,28.4331,Late Iron Age,BP.8,600-1050 AD,Macrofossil,BSh,Vigna_unguiculata_sinesnsis,1,Vigna unguiculata,Fabaceae,Introduced from wider Africa,Cowpea
+Leopard's Kopje Main Kraal,LKMK_8,Zimbabwe,-20.1167,28.4331,Late Iron Age,BP.10,600-1050 AD,Macrofossil,BSh,Vigna_unguiculata_sinesnsis,1,Vigna unguiculata,Fabaceae,Introduced from wider Africa,Cowpea
+Leopard's Kopje Main Kraal,LKMK_9,Zimbabwe,-20.1167,28.4331,Late Iron Age,BP.11,600-1050 AD,Macrofossil,BSh,Sclerocarya_caffra,1,Sclerocarya birrea subsp. afra,Anacardiaceae,Native subsistence plant,Marula
+Leopard's Kopje Main Kraal,LKMK_9,Zimbabwe,-20.1167,28.4331,Late Iron Age,BP.11,600-1050 AD,Macrofossil,BSh,Voandzeia_subterranea,1,Vigna subterranea,Fabaceae,Introduced from wider Africa,Bambara groundnut
+Mananzve,MNV_1,Zimbabwe,-21.6006,28.9422,Late Iron Age,,1100-1800 AD,Macrofossil,BWh,Sorghum_bicolor,1,Sorghum bicolor,Poaceae,Introduced from wider Africa,Sorghum
+Mwenezi Farm,MF_1,Zimbabwe,-21.423,30.726,Iron Age,1,670-1820 AD,Macrofossil,BSh,Brachiaria_deflexa,1,Brachiaria deflexa,Poaceae,Other (mixed flora),
+Mwenezi Farm,MF_1,Zimbabwe,-21.423,30.726,Iron Age,1,670-1820 AD,Macrofossil,BSh,Brachiaria_eruciformis,1,Brachiaria eruciformis,Poaceae,Other (mixed flora),
+Mwenezi Farm,MF_1,Zimbabwe,-21.423,30.726,Iron Age,1,670-1820 AD,Macrofossil,BSh,Dactylactenium_aegyptium,1,Dactyloctenium aegyptium,Poaceae,Other (mixed flora),
+Mwenezi Farm,MF_1,Zimbabwe,-21.423,30.726,Iron Age,1,670-1820 AD,Macrofossil,BSh,Eleusine_indica,1,Eleusine indica,Poaceae,Other (mixed flora),
+Mwenezi Farm,MF_1,Zimbabwe,-21.423,30.726,Iron Age,1,670-1820 AD,Macrofossil,BSh,Eragrostis_lehmannia_var_lehmannia,1,Eragrostis lehmanniana,Poaceae,Other (mixed flora),
+Mwenezi Farm,MF_1,Zimbabwe,-21.423,30.726,Iron Age,1,670-1820 AD,Macrofossil,BSh,Pannicum_maximum,1,Panicum maximum,Poaceae,Other (mixed flora),
+Mwenezi Farm,MF_1,Zimbabwe,-21.423,30.726,Iron Age,1,670-1820 AD,Macrofossil,BSh,Sporobolus_pyramidalis,1,Sporobolus pyramidalis,Poaceae,Other (mixed flora),
+Mwenezi Farm,MF_10,Zimbabwe,-21.423,30.726,Iron Age,2,670-1820 AD,Macrofossil,BSh,Adiagnostic,1,Adiagnostic,,Other (mixed flora),
+Mwenezi Farm,MF_10,Zimbabwe,-21.423,30.726,Iron Age,2,670-1820 AD,Macrofossil,BSh,Brachiaria_eruciformis,1,Brachiaria eruciformis,Poaceae,Other (mixed flora),
+Mwenezi Farm,MF_10,Zimbabwe,-21.423,30.726,Iron Age,2,670-1820 AD,Macrofossil,BSh,Eleusine_indica,1,Eleusine indica,Poaceae,Other (mixed flora),
+Mwenezi Farm,MF_10,Zimbabwe,-21.423,30.726,Iron Age,2,670-1820 AD,Macrofossil,BSh,Eragrostis_lehmannia_var_lehmannia,1,Eragrostis lehmanniana,Poaceae,Other (mixed flora),
+Mwenezi Farm,MF_10,Zimbabwe,-21.423,30.726,Iron Age,2,670-1820 AD,Macrofossil,BSh,Pannicum_maximum,1,Panicum maximum,Poaceae,Other (mixed flora),
+Mwenezi Farm,MF_10,Zimbabwe,-21.423,30.726,Iron Age,2,670-1820 AD,Macrofossil,BSh,Sporobolus_pyramidalis,1,Sporobolus pyramidalis,Poaceae,Other (mixed flora),
+Mwenezi Farm,MF_10,Zimbabwe,-21.423,30.726,Iron Age,2,670-1820 AD,Macrofossil,BSh,Tragus_berteronianus,1,Tragus berteronianus,Poaceae,Other (mixed flora),
+Mwenezi Farm,MF_11,Zimbabwe,-21.423,30.726,Iron Age,2,670-1820 AD,Macrofossil,BSh,Adiagnostic,1,Adiagnostic,,Other (mixed flora),
+Mwenezi Farm,MF_11,Zimbabwe,-21.423,30.726,Iron Age,2,670-1820 AD,Macrofossil,BSh,Eleusine_indica,1,Eleusine indica,Poaceae,Other (mixed flora),
+Mwenezi Farm,MF_11,Zimbabwe,-21.423,30.726,Iron Age,2,670-1820 AD,Macrofossil,BSh,Ficus_ingens,1,Ficus ingens,Moraceae,Native subsistence plant,
+Mwenezi Farm,MF_11,Zimbabwe,-21.423,30.726,Iron Age,2,670-1820 AD,Macrofossil,BSh,Pannicum_maximum,1,Panicum maximum,Poaceae,Other (mixed flora),
+Mwenezi Farm,MF_12,Zimbabwe,-21.423,30.726,Iron Age,1,670-1820 AD,Macrofossil,BSh,Adiagnostic,1,Adiagnostic,,Other (mixed flora),
+Mwenezi Farm,MF_12,Zimbabwe,-21.423,30.726,Iron Age,1,670-1820 AD,Macrofossil,BSh,Eleusine_indica,1,Eleusine indica,Poaceae,Other (mixed flora),
+Mwenezi Farm,MF_12,Zimbabwe,-21.423,30.726,Iron Age,1,670-1820 AD,Macrofossil,BSh,Eragrostis_lehmannia_var_lehmannia,1,Eragrostis lehmanniana,Poaceae,Other (mixed flora),
+Mwenezi Farm,MF_12,Zimbabwe,-21.423,30.726,Iron Age,1,670-1820 AD,Macrofossil,BSh,Pannicum_maximum,1,Panicum maximum,Poaceae,Other (mixed flora),
+Mwenezi Farm,MF_12,Zimbabwe,-21.423,30.726,Iron Age,1,670-1820 AD,Macrofossil,BSh,Sporobolus_pyramidalis,1,Sporobolus pyramidalis,Poaceae,Other (mixed flora),
+Mwenezi Farm,MF_2,Zimbabwe,-21.423,30.726,Iron Age,2,670-1820 AD,Macrofossil,BSh,Brachiaria_deflexa,1,Brachiaria deflexa,Poaceae,Other (mixed flora),
+Mwenezi Farm,MF_2,Zimbabwe,-21.423,30.726,Iron Age,2,670-1820 AD,Macrofossil,BSh,Brachiaria_eruciformis,1,Brachiaria eruciformis,Poaceae,Other (mixed flora),
+Mwenezi Farm,MF_2,Zimbabwe,-21.423,30.726,Iron Age,2,670-1820 AD,Macrofossil,BSh,Dactylactenium_aegyptium,1,Dactyloctenium aegyptium,Poaceae,Other (mixed flora),
+Mwenezi Farm,MF_2,Zimbabwe,-21.423,30.726,Iron Age,2,670-1820 AD,Macrofossil,BSh,Eleusine_indica,1,Eleusine indica,Poaceae,Other (mixed flora),
+Mwenezi Farm,MF_2,Zimbabwe,-21.423,30.726,Iron Age,2,670-1820 AD,Macrofossil,BSh,Eragrostis_lehmannia_var_lehmannia,1,Eragrostis lehmanniana,Poaceae,Other (mixed flora),
+Mwenezi Farm,MF_2,Zimbabwe,-21.423,30.726,Iron Age,2,670-1820 AD,Macrofossil,BSh,Pannicum_maximum,1,Panicum maximum,Poaceae,Other (mixed flora),
+Mwenezi Farm,MF_2,Zimbabwe,-21.423,30.726,Iron Age,2,670-1820 AD,Macrofossil,BSh,Sporobolus_pyramidalis,1,Sporobolus pyramidalis,Poaceae,Other (mixed flora),
+Mwenezi Farm,MF_3,Zimbabwe,-21.423,30.726,Iron Age,3,670-1820 AD,Macrofossil,BSh,Brachiaria_deflexa,1,Brachiaria deflexa,Poaceae,Other (mixed flora),
+Mwenezi Farm,MF_3,Zimbabwe,-21.423,30.726,Iron Age,3,670-1820 AD,Macrofossil,BSh,Brachiaria_eruciformis,1,Brachiaria eruciformis,Poaceae,Other (mixed flora),
+Mwenezi Farm,MF_3,Zimbabwe,-21.423,30.726,Iron Age,3,670-1820 AD,Macrofossil,BSh,Dactylactenium_aegyptium,1,Dactyloctenium aegyptium,Poaceae,Other (mixed flora),
+Mwenezi Farm,MF_3,Zimbabwe,-21.423,30.726,Iron Age,3,670-1820 AD,Macrofossil,BSh,Eleusine_indica,1,Eleusine indica,Poaceae,Other (mixed flora),
+Mwenezi Farm,MF_3,Zimbabwe,-21.423,30.726,Iron Age,3,670-1820 AD,Macrofossil,BSh,Eragrostis_lehmannia_var_lehmannia,1,Eragrostis lehmanniana,Poaceae,Other (mixed flora),
+Mwenezi Farm,MF_3,Zimbabwe,-21.423,30.726,Iron Age,3,670-1820 AD,Macrofossil,BSh,Pannicum_maximum,1,Panicum maximum,Poaceae,Other (mixed flora),
+Mwenezi Farm,MF_3,Zimbabwe,-21.423,30.726,Iron Age,3,670-1820 AD,Macrofossil,BSh,Sporobolus_pyramidalis,1,Sporobolus pyramidalis,Poaceae,Other (mixed flora),
+Mwenezi Farm,MF_4,Zimbabwe,-21.423,30.726,Iron Age,1,670-1820 AD,Macrofossil,BSh,Adiagnostic,1,Adiagnostic,,Other (mixed flora),
+Mwenezi Farm,MF_5,Zimbabwe,-21.423,30.726,Iron Age,2,670-1820 AD,Macrofossil,BSh,Ficus,1,Ficus,Moraceae,Native subsistence plant,Fig
+Mwenezi Farm,MF_5,Zimbabwe,-21.423,30.726,Iron Age,2,670-1820 AD,Macrofossil,BSh,Pannicum_maximum,1,Panicum maximum,Poaceae,Other (mixed flora),
+Mwenezi Farm,MF_5,Zimbabwe,-21.423,30.726,Iron Age,2,670-1820 AD,Macrofossil,BSh,Sporobolus_pyramidalis,1,Sporobolus pyramidalis,Poaceae,Other (mixed flora),
+Mwenezi Farm,MF_6,Zimbabwe,-21.423,30.726,Iron Age,2,670-1820 AD,Macrofossil,BSh,Brachiaria_deflexa,1,Brachiaria deflexa,Poaceae,Other (mixed flora),
+Mwenezi Farm,MF_6,Zimbabwe,-21.423,30.726,Iron Age,2,670-1820 AD,Macrofossil,BSh,Brachiaria_eruciformis,1,Brachiaria eruciformis,Poaceae,Other (mixed flora),
+Mwenezi Farm,MF_6,Zimbabwe,-21.423,30.726,Iron Age,2,670-1820 AD,Macrofossil,BSh,Dactylactenium_aegyptium,1,Dactyloctenium aegyptium,Poaceae,Other (mixed flora),
+Mwenezi Farm,MF_6,Zimbabwe,-21.423,30.726,Iron Age,2,670-1820 AD,Macrofossil,BSh,Eleusine_indica,1,Eleusine indica,Poaceae,Other (mixed flora),
+Mwenezi Farm,MF_6,Zimbabwe,-21.423,30.726,Iron Age,2,670-1820 AD,Macrofossil,BSh,Eragrostis_lehmannia_var_lehmannia,1,Eragrostis lehmanniana,Poaceae,Other (mixed flora),
+Mwenezi Farm,MF_6,Zimbabwe,-21.423,30.726,Iron Age,2,670-1820 AD,Macrofossil,BSh,Pannicum_maximum,1,Panicum maximum,Poaceae,Other (mixed flora),
+Mwenezi Farm,MF_7,Zimbabwe,-21.423,30.726,Iron Age,2,670-1820 AD,Macrofossil,BSh,Brachiaria_eruciformis,1,Brachiaria eruciformis,Poaceae,Other (mixed flora),
+Mwenezi Farm,MF_7,Zimbabwe,-21.423,30.726,Iron Age,2,670-1820 AD,Macrofossil,BSh,Eleusine_indica,1,Eleusine indica,Poaceae,Other (mixed flora),
+Mwenezi Farm,MF_7,Zimbabwe,-21.423,30.726,Iron Age,2,670-1820 AD,Macrofossil,BSh,Pannicum_maximum,1,Panicum maximum,Poaceae,Other (mixed flora),
+Mwenezi Farm,MF_7,Zimbabwe,-21.423,30.726,Iron Age,2,670-1820 AD,Macrofossil,BSh,Sporobolus_pyramidalis,1,Sporobolus pyramidalis,Poaceae,Other (mixed flora),
+Mwenezi Farm,MF_7,Zimbabwe,-21.423,30.726,Iron Age,2,670-1820 AD,Macrofossil,BSh,Tragus_berteronianus,1,Tragus berteronianus,Poaceae,Other (mixed flora),
+Mwenezi Farm,MF_7,Zimbabwe,-21.423,30.726,Iron Age,2,670-1820 AD,Macrofossil,BSh,Voandzeia_subterranea,1,Vigna subterranea,Fabaceae,Introduced from wider Africa,Bambara groundnut
+Mwenezi Farm,MF_8,Zimbabwe,-21.423,30.726,Iron Age,2,670-1820 AD,Macrofossil,BSh,Adiagnostic,1,Adiagnostic,,Other (mixed flora),
+Mwenezi Farm,MF_8,Zimbabwe,-21.423,30.726,Iron Age,2,670-1820 AD,Macrofossil,BSh,Brachiaria_deflexa,1,Brachiaria deflexa,Poaceae,Other (mixed flora),
+Mwenezi Farm,MF_8,Zimbabwe,-21.423,30.726,Iron Age,2,670-1820 AD,Macrofossil,BSh,Brachiaria_eruciformis,1,Brachiaria eruciformis,Poaceae,Other (mixed flora),
+Mwenezi Farm,MF_8,Zimbabwe,-21.423,30.726,Iron Age,2,670-1820 AD,Macrofossil,BSh,Dactylactenium_aegyptium,1,Dactyloctenium aegyptium,Poaceae,Other (mixed flora),
+Mwenezi Farm,MF_8,Zimbabwe,-21.423,30.726,Iron Age,2,670-1820 AD,Macrofossil,BSh,Eragrostis_lehmannia_var_lehmannia,1,Eragrostis lehmanniana,Poaceae,Other (mixed flora),
+Mwenezi Farm,MF_8,Zimbabwe,-21.423,30.726,Iron Age,2,670-1820 AD,Macrofossil,BSh,Pannicum_maximum,1,Panicum maximum,Poaceae,Other (mixed flora),
+Mwenezi Farm,MF_9,Zimbabwe,-21.423,30.726,Iron Age,4,670-1820 AD,Macrofossil,BSh,Adiagnostic,1,Adiagnostic,,Other (mixed flora),
+Mwenezi Farm,MF_9,Zimbabwe,-21.423,30.726,Iron Age,4,670-1820 AD,Macrofossil,BSh,Parinari_curatellifolia,1,Parinari curatellifolia,Chrysobalanaceae,Native subsistence plant,Mobola plum
+Nebraska Ranch,NR_1,Zimbabwe,-19.7,30.6,Late Iron Age,3,1275-1550 AD,Macrofossil,BSh,Helianthus_annus,1,Helianthus annuus,Asteraceae,Introduced from outside Africa,Sunflower
+Nebraska Ranch,NR_1,Zimbabwe,-19.7,30.6,Late Iron Age,3,1275-1550 AD,Macrofossil,BSh,Vigna_unguiculata_sinesnsis,1,Vigna unguiculata,Fabaceae,Introduced from wider Africa,Cowpea

@@ -1,0 +1,231 @@
+site_name,sample_number,accepted_name_short,common_name,family,plant_group,taxon_merged_figs45,taxon_plot_id_fig3,taxon_plot_name_fig3,is_post_1500_taxon,is_genus_exclude,ecocrop_kg_codes,ecocrop_alt_min_m,ecocrop_alt_max_m
+Balerno Shelter 2,BS2_1,Citrullus lanatus,Tsamma melon,Cucurbitaceae,Native subsistence plant,Citrullus lanatus,Citrullus lanatus,Tsamma melon,FALSE,FALSE,"Aw; Af, Am; Cfa, Cfb; Csa, Csb; Cfb, Cfc",NA,NA
+Balerno Shelter 2,BS2_1,Momordica balsamina,Balsam apple,Cucurbitaceae,Native subsistence plant,Momordica balsamina,Momordica balsamina,Balsam apple,FALSE,FALSE,NA,NA,NA
+Evelyn,EVE_1,Adansonia digitata,Baobab,Malvaceae,Introduced from wider Africa,Adansonia digitata,Adansonia digitata,Baobab,FALSE,FALSE,"Aw; BSh, BSk",NA,NA
+Evelyn,EVE_1,Cenchrus americanus,Pearl millet,Poaceae,Introduced from wider Africa,Cenchrus americanus,Cenchrus americanus,Pearl millet,FALSE,FALSE,"Aw; Af, Am; BWh, BWk; BSh, BSk; Cfa, Cfb; Csa, Csb; Cwa, Cwb",0,1800
+Evelyn,EVE_1,Chenopodium,Goosefoot,Amaranthaceae,Native subsistence plant,Chenopodium,Chenopodium,Goosefoot,FALSE,FALSE,NA,NA,NA
+Evelyn,EVE_1,Grewia,Raisin bush,Malvaceae,Native subsistence plant,Grewia,Grewia,Raisin bush,FALSE,FALSE,NA,NA,NA
+Evelyn,EVE_1,Sclerocarya birrea,Marula,Anacardiaceae,Native subsistence plant,Sclerocarya birrea,Sclerocarya birrea,Marula,FALSE,FALSE,"Aw; Af, Am; BSh, BSk; Csa, Csb",NA,NA
+Evelyn,EVE_1,Sorghum bicolor,Sorghum,Poaceae,Introduced from wider Africa,Sorghum bicolor,Sorghum combined,Sorghum,FALSE,FALSE,"Aw; BSh, BSk; Csa, Csb",0,2500
+Evelyn,EVE_1,Vigna radiata,Mung bean,Fabaceae,Introduced from outside Africa,Vigna radiata,Vigna radiata,Mung bean,FALSE,FALSE,"Aw; Cfa, Cfb",NA,NA
+Evelyn,EVE_1,Vigna unguiculata,Cowpea,Fabaceae,Introduced from wider Africa,Vigna unguiculata,Vigna unguiculata,Cowpea,FALSE,FALSE,"Aw; Af, Am; BSh, BSk; Cfa, Cfb; Csa, Csb; Cwa, Cwb",0,2000
+Evelyn,EVE_1,Ziziphus,Buffalo-thorn,Rhamnaceae,Native subsistence plant,Ziziphus,Ziziphus,Buffalo-thorn,FALSE,FALSE,NA,NA,NA
+Fibobe II,FBB_7,Vigna subterranea,Bambara groundnut,Fabaceae,Introduced from wider Africa,Vigna subterranea,Vigna subterranea,Bambara groundnut,FALSE,FALSE,"Aw; Csa, Csb",200,1400
+Frampton 1,FRA_1,Chenopodium,Goosefoot,Amaranthaceae,Native subsistence plant,Chenopodium,Chenopodium,Goosefoot,FALSE,FALSE,NA,NA,NA
+Frampton 1,FRA_1,Citrullus,Wild watermelon,Cucurbitaceae,Native subsistence plant,Citrullus,Citrullus,Wild watermelon,FALSE,FALSE,NA,NA,NA
+Frampton 1,FRA_1,Sclerocarya birrea,Marula,Anacardiaceae,Native subsistence plant,Sclerocarya birrea,Sclerocarya birrea,Marula,FALSE,FALSE,"Aw; Af, Am; BSh, BSk; Csa, Csb",NA,NA
+Frampton 1,FRA_1,Solanum retroflexum,Wonderberry,Solanaceae,Native subsistence plant,Solanum retroflexum,Solanum retroflexum,Wonderberry,FALSE,FALSE,NA,NA,NA
+Frampton 2,FRA_2,Chenopodium,Goosefoot,Amaranthaceae,Native subsistence plant,Chenopodium,Chenopodium,Goosefoot,FALSE,FALSE,NA,NA,NA
+Frampton 2,FRA_2,Sorghum bicolor,Sorghum,Poaceae,Introduced from wider Africa,Sorghum bicolor,Sorghum combined,Sorghum,FALSE,FALSE,"Aw; BSh, BSk; Csa, Csb",0,2500
+Geduld,GD_2,Berchemia discolor,Bird plum,Rhamnaceae,Native subsistence plant,Berchemia discolor,Berchemia discolor,Bird plum,FALSE,FALSE,"Aw; BSh, BSk; Csa, Csb",NA,NA
+Geduld,GD_2,Citrullus lanatus,Tsamma melon,Cucurbitaceae,Native subsistence plant,Citrullus lanatus,Citrullus lanatus,Tsamma melon,FALSE,FALSE,"Aw; Af, Am; Cfa, Cfb; Csa, Csb; Cfb, Cfc",NA,NA
+Geduld,GD_2,Grewia,Raisin bush,Malvaceae,Native subsistence plant,Grewia,Grewia,Raisin bush,FALSE,FALSE,NA,NA,NA
+Geduld,GD_2,Tylosema esculentum,Marama bean,Fabaceae,Native subsistence plant,Tylosema esculentum,Tylosema esculentum,Marama bean,FALSE,FALSE,"Aw; Af, Am; BWh, BWk; BSh, BSk",NA,NA
+Geduld,GD_2,Ximenia afra,Sourplum,Olacaceae,Native subsistence plant,Ximenia afra,Ximenia afra,Sourplum,FALSE,FALSE,NA,NA,NA
+Geduld,GD_3,Berchemia discolor,Bird plum,Rhamnaceae,Native subsistence plant,Berchemia discolor,Berchemia discolor,Bird plum,FALSE,FALSE,"Aw; BSh, BSk; Csa, Csb",NA,NA
+Geduld,GD_3,Citrullus lanatus,Tsamma melon,Cucurbitaceae,Native subsistence plant,Citrullus lanatus,Citrullus lanatus,Tsamma melon,FALSE,FALSE,"Aw; Af, Am; Cfa, Cfb; Csa, Csb; Cfb, Cfc",NA,NA
+Geduld,GD_3,Euclea pseudebenus,Ebony guarri,Ebenaceae,Native subsistence plant,Euclea pseudebenus,Euclea pseudebenus,Ebony guarri,FALSE,FALSE,NA,NA,NA
+Geduld,GD_3,Grewia,Raisin bush,Malvaceae,Native subsistence plant,Grewia,Grewia,Raisin bush,FALSE,FALSE,NA,NA,NA
+Geduld,GD_3,Ricinus communis,Castor-oil plant,Euphorbiaceae,Introduced from wider Africa,Ricinus communis,Ricinus communis,Castor-oil plant,FALSE,FALSE,"Aw; BSh, BSk; Cfa, Cfb; Csa, Csb",NA,NA
+Geduld,GD_3,Tylosema esculentum,Marama bean,Fabaceae,Native subsistence plant,Tylosema esculentum,Tylosema esculentum,Marama bean,FALSE,FALSE,"Aw; Af, Am; BWh, BWk; BSh, BSk",NA,NA
+Geduld,GD_3,Ximenia afra,Sourplum,Olacaceae,Native subsistence plant,Ximenia afra,Ximenia afra,Sourplum,FALSE,FALSE,NA,NA,NA
+Geduld,GD_3,Ziziphus mucronata,Buffalo-thorn,Rhamnaceae,Native subsistence plant,Ziziphus mucronata,Ziziphus mucronata,Buffalo-thorn,FALSE,FALSE,"Aw; BSh, BSk",NA,NA
+Geduld,GD_4,Boscia albitrunca,Shepherd's tree,NA,Native subsistence plant,Boscia albitrunca,Boscia albitrunca,Shepherd's tree,FALSE,FALSE,NA,NA,NA
+Geduld,GD_4,Boscia foetida,Stink shepherd's tree,Capparaceae,Native subsistence plant,Boscia foetida,Boscia foetida,Stink shepherd's tree,FALSE,FALSE,NA,NA,NA
+Geduld,GD_4,Citrullus lanatus,Tsamma melon,Cucurbitaceae,Native subsistence plant,Citrullus lanatus,Citrullus lanatus,Tsamma melon,FALSE,FALSE,"Aw; Af, Am; Cfa, Cfb; Csa, Csb; Cfb, Cfc",NA,NA
+Geduld,GD_4,Euclea pseudebenus,Ebony guarri,Ebenaceae,Native subsistence plant,Euclea pseudebenus,Euclea pseudebenus,Ebony guarri,FALSE,FALSE,NA,NA,NA
+Geduld,GD_4,Tylosema esculentum,Marama bean,Fabaceae,Native subsistence plant,Tylosema esculentum,Tylosema esculentum,Marama bean,FALSE,FALSE,"Aw; Af, Am; BWh, BWk; BSh, BSk",NA,NA
+Geduld,GD_4,Ximenia afra,Sourplum,Olacaceae,Native subsistence plant,Ximenia afra,Ximenia afra,Sourplum,FALSE,FALSE,NA,NA,NA
+Geduld,GD_4,Ziziphus mucronata,Buffalo-thorn,Rhamnaceae,Native subsistence plant,Ziziphus mucronata,Ziziphus mucronata,Buffalo-thorn,FALSE,FALSE,"Aw; BSh, BSk",NA,NA
+Geduld,GD_5,Berchemia discolor,Bird plum,Rhamnaceae,Native subsistence plant,Berchemia discolor,Berchemia discolor,Bird plum,FALSE,FALSE,"Aw; BSh, BSk; Csa, Csb",NA,NA
+Geduld,GD_5,Citrullus lanatus,Tsamma melon,Cucurbitaceae,Native subsistence plant,Citrullus lanatus,Citrullus lanatus,Tsamma melon,FALSE,FALSE,"Aw; Af, Am; Cfa, Cfb; Csa, Csb; Cfb, Cfc",NA,NA
+Geduld,GD_5,Euclea pseudebenus,Ebony guarri,Ebenaceae,Native subsistence plant,Euclea pseudebenus,Euclea pseudebenus,Ebony guarri,FALSE,FALSE,NA,NA,NA
+Geduld,GD_5,Grewia,Raisin bush,Malvaceae,Native subsistence plant,Grewia,Grewia,Raisin bush,FALSE,FALSE,NA,NA,NA
+Geduld,GD_5,Tylosema esculentum,Marama bean,Fabaceae,Native subsistence plant,Tylosema esculentum,Tylosema esculentum,Marama bean,FALSE,FALSE,"Aw; Af, Am; BWh, BWk; BSh, BSk",NA,NA
+Geduld,GD_5,Ximenia afra,Sourplum,Olacaceae,Native subsistence plant,Ximenia afra,Ximenia afra,Sourplum,FALSE,FALSE,NA,NA,NA
+Geduld,GD_5,Ziziphus mucronata,Buffalo-thorn,Rhamnaceae,Native subsistence plant,Ziziphus mucronata,Ziziphus mucronata,Buffalo-thorn,FALSE,FALSE,"Aw; BSh, BSk",NA,NA
+Geduld,GD_6,Berchemia discolor,Bird plum,Rhamnaceae,Native subsistence plant,Berchemia discolor,Berchemia discolor,Bird plum,FALSE,FALSE,"Aw; BSh, BSk; Csa, Csb",NA,NA
+Geduld,GD_6,Boscia foetida,Stink shepherd's tree,Capparaceae,Native subsistence plant,Boscia foetida,Boscia foetida,Stink shepherd's tree,FALSE,FALSE,NA,NA,NA
+Geduld,GD_6,Citrullus lanatus,Tsamma melon,Cucurbitaceae,Native subsistence plant,Citrullus lanatus,Citrullus lanatus,Tsamma melon,FALSE,FALSE,"Aw; Af, Am; Cfa, Cfb; Csa, Csb; Cfb, Cfc",NA,NA
+Geduld,GD_6,Euclea pseudebenus,Ebony guarri,Ebenaceae,Native subsistence plant,Euclea pseudebenus,Euclea pseudebenus,Ebony guarri,FALSE,FALSE,NA,NA,NA
+Geduld,GD_6,Grewia,Raisin bush,Malvaceae,Native subsistence plant,Grewia,Grewia,Raisin bush,FALSE,FALSE,NA,NA,NA
+Geduld,GD_6,Tylosema esculentum,Marama bean,Fabaceae,Native subsistence plant,Tylosema esculentum,Tylosema esculentum,Marama bean,FALSE,FALSE,"Aw; Af, Am; BWh, BWk; BSh, BSk",NA,NA
+Geduld,GD_6,Ximenia afra,Sourplum,Olacaceae,Native subsistence plant,Ximenia afra,Ximenia afra,Sourplum,FALSE,FALSE,NA,NA,NA
+Geduld,GD_6,Ziziphus mucronata,Buffalo-thorn,Rhamnaceae,Native subsistence plant,Ziziphus mucronata,Ziziphus mucronata,Buffalo-thorn,FALSE,FALSE,"Aw; BSh, BSk",NA,NA
+Geduld,GD_7,Citrullus lanatus,Tsamma melon,Cucurbitaceae,Native subsistence plant,Citrullus lanatus,Citrullus lanatus,Tsamma melon,FALSE,FALSE,"Aw; Af, Am; Cfa, Cfb; Csa, Csb; Cfb, Cfc",NA,NA
+Geduld,GD_7,Euclea pseudebenus,Ebony guarri,Ebenaceae,Native subsistence plant,Euclea pseudebenus,Euclea pseudebenus,Ebony guarri,FALSE,FALSE,NA,NA,NA
+Geduld,GD_7,Grewia,Raisin bush,Malvaceae,Native subsistence plant,Grewia,Grewia,Raisin bush,FALSE,FALSE,NA,NA,NA
+Geduld,GD_7,Tylosema esculentum,Marama bean,Fabaceae,Native subsistence plant,Tylosema esculentum,Tylosema esculentum,Marama bean,FALSE,FALSE,"Aw; Af, Am; BWh, BWk; BSh, BSk",NA,NA
+Geduld,GD_7,Ximenia afra,Sourplum,Olacaceae,Native subsistence plant,Ximenia afra,Ximenia afra,Sourplum,FALSE,FALSE,NA,NA,NA
+Geduld,GD_8,Berchemia discolor,Bird plum,Rhamnaceae,Native subsistence plant,Berchemia discolor,Berchemia discolor,Bird plum,FALSE,FALSE,"Aw; BSh, BSk; Csa, Csb",NA,NA
+Geduld,GD_8,Citrullus lanatus,Tsamma melon,Cucurbitaceae,Native subsistence plant,Citrullus lanatus,Citrullus lanatus,Tsamma melon,FALSE,FALSE,"Aw; Af, Am; Cfa, Cfb; Csa, Csb; Cfb, Cfc",NA,NA
+Geduld,GD_8,Entada elephantina,Eland's bean,Fabaceae,Native subsistence plant,Entada elephantina,Entada elephantina,Eland's bean,FALSE,FALSE,NA,NA,NA
+Geduld,GD_8,Euclea pseudebenus,Ebony guarri,Ebenaceae,Native subsistence plant,Euclea pseudebenus,Euclea pseudebenus,Ebony guarri,FALSE,FALSE,NA,NA,NA
+Geduld,GD_8,Grewia,Raisin bush,Malvaceae,Native subsistence plant,Grewia,Grewia,Raisin bush,FALSE,FALSE,NA,NA,NA
+Geduld,GD_8,Tylosema esculentum,Marama bean,Fabaceae,Native subsistence plant,Tylosema esculentum,Tylosema esculentum,Marama bean,FALSE,FALSE,"Aw; Af, Am; BWh, BWk; BSh, BSk",NA,NA
+Geduld,GD_8,Ximenia afra,Sourplum,Olacaceae,Native subsistence plant,Ximenia afra,Ximenia afra,Sourplum,FALSE,FALSE,NA,NA,NA
+Geduld,GD_8,Ziziphus mucronata,Buffalo-thorn,Rhamnaceae,Native subsistence plant,Ziziphus mucronata,Ziziphus mucronata,Buffalo-thorn,FALSE,FALSE,"Aw; BSh, BSk",NA,NA
+Geduld,GD_9,Citrullus lanatus,Tsamma melon,Cucurbitaceae,Native subsistence plant,Citrullus lanatus,Citrullus lanatus,Tsamma melon,FALSE,FALSE,"Aw; Af, Am; Cfa, Cfb; Csa, Csb; Cfb, Cfc",NA,NA
+Geduld,GD_9,Grewia,Raisin bush,Malvaceae,Native subsistence plant,Grewia,Grewia,Raisin bush,FALSE,FALSE,NA,NA,NA
+Geduld,GD_9,Ximenia afra,Sourplum,Olacaceae,Native subsistence plant,Ximenia afra,Ximenia afra,Sourplum,FALSE,FALSE,NA,NA,NA
+Geduld,GD_9,Ziziphus mucronata,Buffalo-thorn,Rhamnaceae,Native subsistence plant,Ziziphus mucronata,Ziziphus mucronata,Buffalo-thorn,FALSE,FALSE,"Aw; BSh, BSk",NA,NA
+Great Zimbabwe,GZ_1,Sorghum bicolor,Sorghum,Poaceae,Introduced from wider Africa,Sorghum bicolor,Sorghum combined,Sorghum,FALSE,FALSE,"Aw; BSh, BSk; Csa, Csb",0,2500
+Great Zimbabwe,GZ_17,Sorghum bicolor,Sorghum,Poaceae,Introduced from wider Africa,Sorghum bicolor,Sorghum combined,Sorghum,FALSE,FALSE,"Aw; BSh, BSk; Csa, Csb",0,2500
+Great Zimbabwe,GZ_17,Vigna subterranea,Bambara groundnut,Fabaceae,Introduced from wider Africa,Vigna subterranea,Vigna subterranea,Bambara groundnut,FALSE,FALSE,"Aw; Csa, Csb",200,1400
+Great Zimbabwe,GZ_6,Vigna subterranea,Bambara groundnut,Fabaceae,Introduced from wider Africa,Vigna subterranea,Vigna subterranea,Bambara groundnut,FALSE,FALSE,"Aw; Csa, Csb",200,1400
+Great Zimbabwe,GZ_7,Citrullus lanatus,Tsamma melon,Cucurbitaceae,Native subsistence plant,Citrullus lanatus,Citrullus lanatus,Tsamma melon,FALSE,FALSE,"Aw; Af, Am; Cfa, Cfb; Csa, Csb; Cfb, Cfc",NA,NA
+Great Zimbabwe,GZ_8,Vigna subterranea,Bambara groundnut,Fabaceae,Introduced from wider Africa,Vigna subterranea,Vigna subterranea,Bambara groundnut,FALSE,FALSE,"Aw; Csa, Csb",200,1400
+Ingombe Ilede,ING_1,Sorghum,Sorghum,Poaceae,Introduced from wider Africa,Sorghum bicolor,Sorghum combined,Sorghum,FALSE,FALSE,NA,NA,NA
+Kadzi,K_1,Eleusine coracana,Finger millet,Poaceae,Introduced from wider Africa,Eleusine coracana,Eleusine coracana,Finger millet,FALSE,FALSE,"Aw; BWh, BWk; BSh, BSk; Cfa, Cfb; Csa, Csb; Cwa, Cwb",0,2500
+Kadzi,K_2,Eleusine coracana,Finger millet,Poaceae,Introduced from wider Africa,Eleusine coracana,Eleusine coracana,Finger millet,FALSE,FALSE,"Aw; BWh, BWk; BSh, BSk; Cfa, Cfb; Csa, Csb; Cwa, Cwb",0,2500
+Kalundu Mound,KLM_1,Ficus,Fig,Moraceae,Native subsistence plant,Ficus,Ficus combined,Fig,FALSE,FALSE,NA,NA,NA
+Kalundu Mound,KLM_1,Parinari curatellifolia,Mobola plum,Chrysobalanaceae,Native subsistence plant,Parinari curatellifolia,Parinari curatellifolia,Mobola plum,FALSE,FALSE,"Aw; Af, Am; BWh, BWk; BSh, BSk; Cfa, Cfb; Csa, Csb",NA,NA
+Kalundu Mound,KLM_1,Sorghum bicolor,Sorghum,Poaceae,Introduced from wider Africa,Sorghum bicolor,Sorghum combined,Sorghum,FALSE,FALSE,"Aw; BSh, BSk; Csa, Csb",0,2500
+Kalundu Mound,KLM_1,Uapaca kirkiana,Wild loquat,Phyllanthaceae,Native subsistence plant,Uapaca kirkiana,Uapaca kirkiana,Wild loquat,FALSE,FALSE,Aw,NA,NA
+Kalundu Mound,KLM_2,Eleusine coracana,Finger millet,Poaceae,Introduced from wider Africa,Eleusine coracana,Eleusine coracana,Finger millet,FALSE,FALSE,"Aw; BWh, BWk; BSh, BSk; Cfa, Cfb; Csa, Csb; Cwa, Cwb",0,2500
+Kalundu Mound,KLM_2,Parinari curatellifolia,Mobola plum,Chrysobalanaceae,Native subsistence plant,Parinari curatellifolia,Parinari curatellifolia,Mobola plum,FALSE,FALSE,"Aw; Af, Am; BWh, BWk; BSh, BSk; Cfa, Cfb; Csa, Csb",NA,NA
+Kalundu Mound,KLM_2,Sorghum bicolor,Sorghum,Poaceae,Introduced from wider Africa,Sorghum bicolor,Sorghum combined,Sorghum,FALSE,FALSE,"Aw; BSh, BSk; Csa, Csb",0,2500
+Kalundu Mound,KLM_3,Eleusine coracana,Finger millet,Poaceae,Introduced from wider Africa,Eleusine coracana,Eleusine coracana,Finger millet,FALSE,FALSE,"Aw; BWh, BWk; BSh, BSk; Cfa, Cfb; Csa, Csb; Cwa, Cwb",0,2500
+Kalundu Mound,KLM_3,Parinari curatellifolia,Mobola plum,Chrysobalanaceae,Native subsistence plant,Parinari curatellifolia,Parinari curatellifolia,Mobola plum,FALSE,FALSE,"Aw; Af, Am; BWh, BWk; BSh, BSk; Cfa, Cfb; Csa, Csb",NA,NA
+Kalundu Mound,KLM_3,Sorghum bicolor,Sorghum,Poaceae,Introduced from wider Africa,Sorghum bicolor,Sorghum combined,Sorghum,FALSE,FALSE,"Aw; BSh, BSk; Csa, Csb",0,2500
+Kalundu Mound,KLM_4,Cenchrus americanus,Pearl millet,Poaceae,Introduced from wider Africa,Cenchrus americanus,Cenchrus americanus,Pearl millet,FALSE,FALSE,"Aw; Af, Am; BWh, BWk; BSh, BSk; Cfa, Cfb; Csa, Csb; Cwa, Cwb",0,1800
+Kalundu Mound,KLM_4,Eleusine coracana,Finger millet,Poaceae,Introduced from wider Africa,Eleusine coracana,Eleusine coracana,Finger millet,FALSE,FALSE,"Aw; BWh, BWk; BSh, BSk; Cfa, Cfb; Csa, Csb; Cwa, Cwb",0,2500
+Kalundu Mound,KLM_4,Parinari curatellifolia,Mobola plum,Chrysobalanaceae,Native subsistence plant,Parinari curatellifolia,Parinari curatellifolia,Mobola plum,FALSE,FALSE,"Aw; Af, Am; BWh, BWk; BSh, BSk; Cfa, Cfb; Csa, Csb",NA,NA
+Kalundu Mound,KLM_5,Eleusine coracana,Finger millet,Poaceae,Introduced from wider Africa,Eleusine coracana,Eleusine coracana,Finger millet,FALSE,FALSE,"Aw; BWh, BWk; BSh, BSk; Cfa, Cfb; Csa, Csb; Cwa, Cwb",0,2500
+Kalundu Mound,KLM_5,Parinari curatellifolia,Mobola plum,Chrysobalanaceae,Native subsistence plant,Parinari curatellifolia,Parinari curatellifolia,Mobola plum,FALSE,FALSE,"Aw; Af, Am; BWh, BWk; BSh, BSk; Cfa, Cfb; Csa, Csb",NA,NA
+Kalundu Mound,KLM_6,Parinari curatellifolia,Mobola plum,Chrysobalanaceae,Native subsistence plant,Parinari curatellifolia,Parinari curatellifolia,Mobola plum,FALSE,FALSE,"Aw; Af, Am; BWh, BWk; BSh, BSk; Cfa, Cfb; Csa, Csb",NA,NA
+Kalundu Mound,KLM_7,Parinari curatellifolia,Mobola plum,Chrysobalanaceae,Native subsistence plant,Parinari curatellifolia,Parinari curatellifolia,Mobola plum,FALSE,FALSE,"Aw; Af, Am; BWh, BWk; BSh, BSk; Cfa, Cfb; Csa, Csb",NA,NA
+Kalundu Mound,KLM_8,Parinari curatellifolia,Mobola plum,Chrysobalanaceae,Native subsistence plant,Parinari curatellifolia,Parinari curatellifolia,Mobola plum,FALSE,FALSE,"Aw; Af, Am; BWh, BWk; BSh, BSk; Cfa, Cfb; Csa, Csb",NA,NA
+Kalundu Mound,KLM_9,Parinari curatellifolia,Mobola plum,Chrysobalanaceae,Native subsistence plant,Parinari curatellifolia,Parinari curatellifolia,Mobola plum,FALSE,FALSE,"Aw; Af, Am; BWh, BWk; BSh, BSk; Cfa, Cfb; Csa, Csb",NA,NA
+Kgaswe,KGA_1,Sorghum,Sorghum,Poaceae,Introduced from wider Africa,Sorghum bicolor,Sorghum combined,Sorghum,FALSE,FALSE,NA,NA,NA
+Khami,Kh_1,Arachis hypogaea,Peanut,Fabaceae,Introduced from outside Africa,Arachis hypogaea,Arachis hypogaea,Peanut,TRUE,FALSE,"Aw; BSh, BSk; Cfa, Cfb",NA,NA
+Khami,Kh_1,Citrullus lanatus,Tsamma melon,Cucurbitaceae,Native subsistence plant,Citrullus lanatus,Citrullus lanatus,Tsamma melon,FALSE,FALSE,"Aw; Af, Am; Cfa, Cfb; Csa, Csb; Cfb, Cfc",NA,NA
+Khami,Kh_1,Eleusine coracana,Finger millet,Poaceae,Introduced from wider Africa,Eleusine coracana,Eleusine coracana,Finger millet,FALSE,FALSE,"Aw; BWh, BWk; BSh, BSk; Cfa, Cfb; Csa, Csb; Cwa, Cwb",0,2500
+Khami,Kh_1,Ricinus communis,Castor-oil plant,Euphorbiaceae,Introduced from wider Africa,Ricinus communis,Ricinus communis,Castor-oil plant,FALSE,FALSE,"Aw; BSh, BSk; Cfa, Cfb; Csa, Csb",NA,NA
+Khami,Kh_1,Sclerocarya birrea,Marula,Anacardiaceae,Native subsistence plant,Sclerocarya birrea,Sclerocarya birrea,Marula,FALSE,FALSE,"Aw; Af, Am; BSh, BSk; Csa, Csb",NA,NA
+Khami,Kh_1,Sorghum bicolor,Sorghum,Poaceae,Introduced from wider Africa,Sorghum bicolor,Sorghum combined,Sorghum,FALSE,FALSE,"Aw; BSh, BSk; Csa, Csb",0,2500
+Khami,Kh_1,Vigna subterranea,Bambara groundnut,Fabaceae,Introduced from wider Africa,Vigna subterranea,Vigna subterranea,Bambara groundnut,FALSE,FALSE,"Aw; Csa, Csb",200,1400
+Khami,Kh_2,Colophospermum mopane,Mopane,Fabaceae,Native subsistence plant,Colophospermum mopane,Colophospermum mopane,Mopane,FALSE,FALSE,"Aw; BWh, BWk; BSh, BSk",NA,NA
+Khami,Kh_2,Lagenaria siceraria,Bottle gourd,Cucurbitaceae,Native subsistence plant,Lagenaria siceraria,Lagenaria siceraria,Bottle gourd,FALSE,FALSE,"Aw; Af, Am; BWh, BWk; BSh, BSk; Cfa, Cfb; Csa, Csb; Cwa, Cwb",NA,NA
+Khami,Kh_2,Sclerocarya birrea,Marula,Anacardiaceae,Native subsistence plant,Sclerocarya birrea,Sclerocarya birrea,Marula,FALSE,FALSE,"Aw; Af, Am; BSh, BSk; Csa, Csb",NA,NA
+Klein Bolayi,KBO_1,Adansonia digitata,Baobab,Malvaceae,Introduced from wider Africa,Adansonia digitata,Adansonia digitata,Baobab,FALSE,FALSE,"Aw; BSh, BSk",NA,NA
+Klein Bolayi,KBO_1,Cenchrus americanus,Pearl millet,Poaceae,Introduced from wider Africa,Cenchrus americanus,Cenchrus americanus,Pearl millet,FALSE,FALSE,"Aw; Af, Am; BWh, BWk; BSh, BSk; Cfa, Cfb; Csa, Csb; Cwa, Cwb",0,1800
+Klein Bolayi,KBO_1,Grewia,Raisin bush,Malvaceae,Native subsistence plant,Grewia,Grewia,Raisin bush,FALSE,FALSE,NA,NA,NA
+Klein Bolayi,KBO_1,Sclerocarya birrea,Marula,Anacardiaceae,Native subsistence plant,Sclerocarya birrea,Sclerocarya birrea,Marula,FALSE,FALSE,"Aw; Af, Am; BSh, BSk; Csa, Csb",NA,NA
+Klein Bolayi,KBO_1,Ziziphus,Buffalo-thorn,Rhamnaceae,Native subsistence plant,Ziziphus,Ziziphus,Buffalo-thorn,FALSE,FALSE,NA,NA,NA
+Lanlory,LAN_1,Vigna unguiculata,Cowpea,Fabaceae,Introduced from wider Africa,Vigna unguiculata,Vigna unguiculata,Cowpea,FALSE,FALSE,"Aw; Af, Am; BSh, BSk; Cfa, Cfb; Csa, Csb; Cwa, Cwb",0,2000
+Leopard's Kopje,LEO_1,Sorghum,Sorghum,Poaceae,Introduced from wider Africa,Sorghum bicolor,Sorghum combined,Sorghum,FALSE,FALSE,NA,NA,NA
+Leopard's Kopje,LEO_1,Vigna subterranea,Bambara groundnut,Fabaceae,Introduced from wider Africa,Vigna subterranea,Vigna subterranea,Bambara groundnut,FALSE,FALSE,"Aw; Csa, Csb",200,1400
+Leopard's Kopje,LEO_1,Vigna unguiculata,Cowpea,Fabaceae,Introduced from wider Africa,Vigna unguiculata,Vigna unguiculata,Cowpea,FALSE,FALSE,"Aw; Af, Am; BSh, BSk; Cfa, Cfb; Csa, Csb; Cwa, Cwb",0,2000
+Leopard's Kopje,LEO_2,Eleusine coracana,Finger millet,Poaceae,Introduced from wider Africa,Eleusine coracana,Eleusine coracana,Finger millet,FALSE,FALSE,"Aw; BWh, BWk; BSh, BSk; Cfa, Cfb; Csa, Csb; Cwa, Cwb",0,2500
+Leopard's Kopje,LEO_2,Sorghum,Sorghum,Poaceae,Introduced from wider Africa,Sorghum bicolor,Sorghum combined,Sorghum,FALSE,FALSE,NA,NA,NA
+Leopard's Kopje,LEO_2,Vigna subterranea,Bambara groundnut,Fabaceae,Introduced from wider Africa,Vigna subterranea,Vigna subterranea,Bambara groundnut,FALSE,FALSE,"Aw; Csa, Csb",200,1400
+Leopard's Kopje,LEO_2,Vigna unguiculata,Cowpea,Fabaceae,Introduced from wider Africa,Vigna unguiculata,Vigna unguiculata,Cowpea,FALSE,FALSE,"Aw; Af, Am; BSh, BSk; Cfa, Cfb; Csa, Csb; Cwa, Cwb",0,2000
+Leopard's Kopje Main Kraal,LKMK_1,Sclerocarya birrea subsp. afra,Marula,Anacardiaceae,Native subsistence plant,Sclerocarya birrea subsp. afra,Sclerocarya birrea subsp. afra,Marula,FALSE,FALSE,"Aw; Af, Am; BSh, BSk; Csa, Csb",NA,NA
+Leopard's Kopje Main Kraal,LKMK_10,Vigna unguiculata,Cowpea,Fabaceae,Introduced from wider Africa,Vigna unguiculata,Vigna unguiculata,Cowpea,FALSE,FALSE,"Aw; Af, Am; BSh, BSk; Cfa, Cfb; Csa, Csb; Cwa, Cwb",0,2000
+Leopard's Kopje Main Kraal,LKMK_11,Sclerocarya birrea subsp. afra,Marula,Anacardiaceae,Native subsistence plant,Sclerocarya birrea subsp. afra,Sclerocarya birrea subsp. afra,Marula,FALSE,FALSE,"Aw; Af, Am; BSh, BSk; Csa, Csb",NA,NA
+Leopard's Kopje Main Kraal,LKMK_12,Sclerocarya birrea subsp. afra,Marula,Anacardiaceae,Native subsistence plant,Sclerocarya birrea subsp. afra,Sclerocarya birrea subsp. afra,Marula,FALSE,FALSE,"Aw; Af, Am; BSh, BSk; Csa, Csb",NA,NA
+Leopard's Kopje Main Kraal,LKMK_13,Sclerocarya birrea subsp. afra,Marula,Anacardiaceae,Native subsistence plant,Sclerocarya birrea subsp. afra,Sclerocarya birrea subsp. afra,Marula,FALSE,FALSE,"Aw; Af, Am; BSh, BSk; Csa, Csb",NA,NA
+Leopard's Kopje Main Kraal,LKMK_14,Sorghum bicolor,Sorghum,Poaceae,Introduced from wider Africa,Sorghum bicolor,Sorghum combined,Sorghum,FALSE,FALSE,"Aw; BSh, BSk; Csa, Csb",0,2500
+Leopard's Kopje Main Kraal,LKMK_3,Vigna unguiculata,Cowpea,Fabaceae,Introduced from wider Africa,Vigna unguiculata,Vigna unguiculata,Cowpea,FALSE,FALSE,"Aw; Af, Am; BSh, BSk; Cfa, Cfb; Csa, Csb; Cwa, Cwb",0,2000
+Leopard's Kopje Main Kraal,LKMK_4,Sclerocarya birrea subsp. afra,Marula,Anacardiaceae,Native subsistence plant,Sclerocarya birrea subsp. afra,Sclerocarya birrea subsp. afra,Marula,FALSE,FALSE,"Aw; Af, Am; BSh, BSk; Csa, Csb",NA,NA
+Leopard's Kopje Main Kraal,LKMK_4,Vigna subterranea,Bambara groundnut,Fabaceae,Introduced from wider Africa,Vigna subterranea,Vigna subterranea,Bambara groundnut,FALSE,FALSE,"Aw; Csa, Csb",200,1400
+Leopard's Kopje Main Kraal,LKMK_4,Vigna unguiculata,Cowpea,Fabaceae,Introduced from wider Africa,Vigna unguiculata,Vigna unguiculata,Cowpea,FALSE,FALSE,"Aw; Af, Am; BSh, BSk; Cfa, Cfb; Csa, Csb; Cwa, Cwb",0,2000
+Leopard's Kopje Main Kraal,LKMK_5,Eleusine coracana,Finger millet,Poaceae,Introduced from wider Africa,Eleusine coracana,Eleusine coracana,Finger millet,FALSE,FALSE,"Aw; BWh, BWk; BSh, BSk; Cfa, Cfb; Csa, Csb; Cwa, Cwb",0,2500
+Leopard's Kopje Main Kraal,LKMK_5,Sclerocarya birrea subsp. afra,Marula,Anacardiaceae,Native subsistence plant,Sclerocarya birrea subsp. afra,Sclerocarya birrea subsp. afra,Marula,FALSE,FALSE,"Aw; Af, Am; BSh, BSk; Csa, Csb",NA,NA
+Leopard's Kopje Main Kraal,LKMK_5,Sorghum bicolor,Sorghum,Poaceae,Introduced from wider Africa,Sorghum bicolor,Sorghum combined,Sorghum,FALSE,FALSE,"Aw; BSh, BSk; Csa, Csb",0,2500
+Leopard's Kopje Main Kraal,LKMK_5,Vigna subterranea,Bambara groundnut,Fabaceae,Introduced from wider Africa,Vigna subterranea,Vigna subterranea,Bambara groundnut,FALSE,FALSE,"Aw; Csa, Csb",200,1400
+Leopard's Kopje Main Kraal,LKMK_5,Vigna unguiculata,Cowpea,Fabaceae,Introduced from wider Africa,Vigna unguiculata,Vigna unguiculata,Cowpea,FALSE,FALSE,"Aw; Af, Am; BSh, BSk; Cfa, Cfb; Csa, Csb; Cwa, Cwb",0,2000
+Leopard's Kopje Main Kraal,LKMK_6,Eleusine coracana,Finger millet,Poaceae,Introduced from wider Africa,Eleusine coracana,Eleusine coracana,Finger millet,FALSE,FALSE,"Aw; BWh, BWk; BSh, BSk; Cfa, Cfb; Csa, Csb; Cwa, Cwb",0,2500
+Leopard's Kopje Main Kraal,LKMK_6,Sorghum bicolor,Sorghum,Poaceae,Introduced from wider Africa,Sorghum bicolor,Sorghum combined,Sorghum,FALSE,FALSE,"Aw; BSh, BSk; Csa, Csb",0,2500
+Leopard's Kopje Main Kraal,LKMK_6,Vigna subterranea,Bambara groundnut,Fabaceae,Introduced from wider Africa,Vigna subterranea,Vigna subterranea,Bambara groundnut,FALSE,FALSE,"Aw; Csa, Csb",200,1400
+Leopard's Kopje Main Kraal,LKMK_6,Vigna unguiculata,Cowpea,Fabaceae,Introduced from wider Africa,Vigna unguiculata,Vigna unguiculata,Cowpea,FALSE,FALSE,"Aw; Af, Am; BSh, BSk; Cfa, Cfb; Csa, Csb; Cwa, Cwb",0,2000
+Leopard's Kopje Main Kraal,LKMK_7,Vigna unguiculata,Cowpea,Fabaceae,Introduced from wider Africa,Vigna unguiculata,Vigna unguiculata,Cowpea,FALSE,FALSE,"Aw; Af, Am; BSh, BSk; Cfa, Cfb; Csa, Csb; Cwa, Cwb",0,2000
+Leopard's Kopje Main Kraal,LKMK_8,Vigna unguiculata,Cowpea,Fabaceae,Introduced from wider Africa,Vigna unguiculata,Vigna unguiculata,Cowpea,FALSE,FALSE,"Aw; Af, Am; BSh, BSk; Cfa, Cfb; Csa, Csb; Cwa, Cwb",0,2000
+Leopard's Kopje Main Kraal,LKMK_9,Sclerocarya birrea subsp. afra,Marula,Anacardiaceae,Native subsistence plant,Sclerocarya birrea subsp. afra,Sclerocarya birrea subsp. afra,Marula,FALSE,FALSE,"Aw; Af, Am; BSh, BSk; Csa, Csb",NA,NA
+Leopard's Kopje Main Kraal,LKMK_9,Vigna subterranea,Bambara groundnut,Fabaceae,Introduced from wider Africa,Vigna subterranea,Vigna subterranea,Bambara groundnut,FALSE,FALSE,"Aw; Csa, Csb",200,1400
+M'teteshi 1,MTSH_1,Sorghum,Sorghum,Poaceae,Introduced from wider Africa,Sorghum bicolor,Sorghum combined,Sorghum,FALSE,FALSE,NA,NA,NA
+Magagarape,MGG_1,Sorghum,Sorghum,Poaceae,Introduced from wider Africa,Sorghum bicolor,Sorghum combined,Sorghum,FALSE,FALSE,NA,NA,NA
+Magogo,MAG_1,Citrullus,Wild watermelon,Cucurbitaceae,Native subsistence plant,Citrullus,Citrullus,Wild watermelon,FALSE,FALSE,NA,NA,NA
+Magogo,MAG_1,Grewia,Raisin bush,Malvaceae,Native subsistence plant,Grewia,Grewia,Raisin bush,FALSE,FALSE,NA,NA,NA
+Magogo,MAG_1,Mollugo,Carpetweed,Molluginaceae,Native subsistence plant,Mollugo,Mollugo,Carpetweed,FALSE,FALSE,NA,NA,NA
+Magogo,MAG_1,Panicum miliaceum,Broomcorn millet,Poaceae,Introduced from outside Africa,Panicum miliaceum,Panicum miliaceum,Broomcorn millet,FALSE,FALSE,"Aw; BWh, BWk; BSh, BSk; Cfa, Cfb; Csa, Csb; Cwa, Cwb",NA,NA
+Magogo,MAG_3,Grewia,Raisin bush,Malvaceae,Native subsistence plant,Grewia,Grewia,Raisin bush,FALSE,FALSE,NA,NA,NA
+Magogo,MAG_3,Mollugo,Carpetweed,Molluginaceae,Native subsistence plant,Mollugo,Mollugo,Carpetweed,FALSE,FALSE,NA,NA,NA
+Magogo,MAG_4,Grewia,Raisin bush,Malvaceae,Native subsistence plant,Grewia,Grewia,Raisin bush,FALSE,FALSE,NA,NA,NA
+Magogo,MAG_4,Mollugo,Carpetweed,Molluginaceae,Native subsistence plant,Mollugo,Mollugo,Carpetweed,FALSE,FALSE,NA,NA,NA
+Magogo,MAG_4,Sorghum,Sorghum,Poaceae,Introduced from wider Africa,Sorghum bicolor,Sorghum combined,Sorghum,FALSE,FALSE,NA,NA,NA
+Magogo,MAG_5,Cenchrus americanus,Pearl millet,Poaceae,Introduced from wider Africa,Cenchrus americanus,Cenchrus americanus,Pearl millet,FALSE,FALSE,"Aw; Af, Am; BWh, BWk; BSh, BSk; Cfa, Cfb; Csa, Csb; Cwa, Cwb",0,1800
+Magogo,MAG_5,Grewia,Raisin bush,Malvaceae,Native subsistence plant,Grewia,Grewia,Raisin bush,FALSE,FALSE,NA,NA,NA
+Mananzve,MNV_1,Sorghum bicolor,Sorghum,Poaceae,Introduced from wider Africa,Sorghum bicolor,Sorghum combined,Sorghum,FALSE,FALSE,"Aw; BSh, BSk; Csa, Csb",0,2500
+Matlapaneng,MTP_1,Cenchrus americanus,Pearl millet,Poaceae,Introduced from wider Africa,Cenchrus americanus,Cenchrus americanus,Pearl millet,FALSE,FALSE,"Aw; Af, Am; BWh, BWk; BSh, BSk; Cfa, Cfb; Csa, Csb; Cwa, Cwb",0,1800
+Matlapaneng,MTP_3,Grewia,Raisin bush,Malvaceae,Native subsistence plant,Grewia,Grewia,Raisin bush,FALSE,FALSE,NA,NA,NA
+Matlapaneng,MTP_3,Sorghum,Sorghum,Poaceae,Introduced from wider Africa,Sorghum bicolor,Sorghum combined,Sorghum,FALSE,FALSE,NA,NA,NA
+Matlapaneng,MTP_3,Vigna unguiculata,Cowpea,Fabaceae,Introduced from wider Africa,Vigna unguiculata,Vigna unguiculata,Cowpea,FALSE,FALSE,"Aw; Af, Am; BSh, BSk; Cfa, Cfb; Csa, Csb; Cwa, Cwb",0,2000
+Mirabib Hill Shelter,MHS_2,Ricinus communis,Castor-oil plant,Euphorbiaceae,Introduced from wider Africa,Ricinus communis,Ricinus communis,Castor-oil plant,FALSE,FALSE,"Aw; BSh, BSk; Cfa, Cfb; Csa, Csb",NA,NA
+Mondake 1,MOND_1,Sorghum,Sorghum,Poaceae,Introduced from wider Africa,Sorghum bicolor,Sorghum combined,Sorghum,FALSE,FALSE,NA,NA,NA
+Mondake 1,MOND_1,Vigna unguiculata,Cowpea,Fabaceae,Introduced from wider Africa,Vigna unguiculata,Vigna unguiculata,Cowpea,FALSE,FALSE,"Aw; Af, Am; BSh, BSk; Cfa, Cfb; Csa, Csb; Cwa, Cwb",0,2000
+Mutamba,MUT_1,Adansonia digitata,Baobab,Malvaceae,Introduced from wider Africa,Adansonia digitata,Adansonia digitata,Baobab,FALSE,FALSE,"Aw; BSh, BSk",NA,NA
+Mutamba,MUT_1,Cenchrus americanus,Pearl millet,Poaceae,Introduced from wider Africa,Cenchrus americanus,Cenchrus americanus,Pearl millet,FALSE,FALSE,"Aw; Af, Am; BWh, BWk; BSh, BSk; Cfa, Cfb; Csa, Csb; Cwa, Cwb",0,1800
+Mutamba,MUT_1,Eleusine coracana,Finger millet,Poaceae,Introduced from wider Africa,Eleusine coracana,Eleusine coracana,Finger millet,FALSE,FALSE,"Aw; BWh, BWk; BSh, BSk; Cfa, Cfb; Csa, Csb; Cwa, Cwb",0,2500
+Mutamba,MUT_1,Gossypium herbaceum,Cotton,Malvaceae,Introduced from wider Africa,Gossypium herbaceum,Gossypium herbaceum,Cotton,FALSE,FALSE,"Aw; Af, Am; BWh, BWk; BSh, BSk; Cfa, Cfb; Csa, Csb; Cwa, Cwb",NA,NA
+Mutamba,MUT_1,Grewia,Raisin bush,Malvaceae,Native subsistence plant,Grewia,Grewia,Raisin bush,FALSE,FALSE,NA,NA,NA
+Mutamba,MUT_1,Sclerocarya birrea,Marula,Anacardiaceae,Native subsistence plant,Sclerocarya birrea,Sclerocarya birrea,Marula,FALSE,FALSE,"Aw; Af, Am; BSh, BSk; Csa, Csb",NA,NA
+Mutamba,MUT_1,Sorghum bicolor,Sorghum,Poaceae,Introduced from wider Africa,Sorghum bicolor,Sorghum combined,Sorghum,FALSE,FALSE,"Aw; BSh, BSk; Csa, Csb",0,2500
+Mutamba,MUT_1,Vigna radiata,Mung bean,Fabaceae,Introduced from outside Africa,Vigna radiata,Vigna radiata,Mung bean,FALSE,FALSE,"Aw; Cfa, Cfb",NA,NA
+Mutamba,MUT_1,Vigna unguiculata,Cowpea,Fabaceae,Introduced from wider Africa,Vigna unguiculata,Vigna unguiculata,Cowpea,FALSE,FALSE,"Aw; Af, Am; BSh, BSk; Cfa, Cfb; Csa, Csb; Cwa, Cwb",0,2000
+Mutamba,MUT_1,Ziziphus zeyheriana,Dwarf buffalo-thorn,Rhamnaceae,Native subsistence plant,Ziziphus zeyheriana,Ziziphus zeyheriana,Dwarf buffalo-thorn,FALSE,FALSE,NA,NA,NA
+Mutamba,MUT_2,Adansonia digitata,Baobab,Malvaceae,Introduced from wider Africa,Adansonia digitata,Adansonia digitata,Baobab,FALSE,FALSE,"Aw; BSh, BSk",NA,NA
+Mutamba,MUT_2,Cenchrus americanus,Pearl millet,Poaceae,Introduced from wider Africa,Cenchrus americanus,Cenchrus americanus,Pearl millet,FALSE,FALSE,"Aw; Af, Am; BWh, BWk; BSh, BSk; Cfa, Cfb; Csa, Csb; Cwa, Cwb",0,1800
+Mutamba,MUT_2,Eleusine coracana,Finger millet,Poaceae,Introduced from wider Africa,Eleusine coracana,Eleusine coracana,Finger millet,FALSE,FALSE,"Aw; BWh, BWk; BSh, BSk; Cfa, Cfb; Csa, Csb; Cwa, Cwb",0,2500
+Mutamba,MUT_2,Gossypium herbaceum,Cotton,Malvaceae,Introduced from wider Africa,Gossypium herbaceum,Gossypium herbaceum,Cotton,FALSE,FALSE,"Aw; Af, Am; BWh, BWk; BSh, BSk; Cfa, Cfb; Csa, Csb; Cwa, Cwb",NA,NA
+Mutamba,MUT_2,Grewia,Raisin bush,Malvaceae,Native subsistence plant,Grewia,Grewia,Raisin bush,FALSE,FALSE,NA,NA,NA
+Mutamba,MUT_2,Sclerocarya birrea,Marula,Anacardiaceae,Native subsistence plant,Sclerocarya birrea,Sclerocarya birrea,Marula,FALSE,FALSE,"Aw; Af, Am; BSh, BSk; Csa, Csb",NA,NA
+Mutamba,MUT_2,Sorghum bicolor,Sorghum,Poaceae,Introduced from wider Africa,Sorghum bicolor,Sorghum combined,Sorghum,FALSE,FALSE,"Aw; BSh, BSk; Csa, Csb",0,2500
+Mutamba,MUT_2,Vigna radiata,Mung bean,Fabaceae,Introduced from outside Africa,Vigna radiata,Vigna radiata,Mung bean,FALSE,FALSE,"Aw; Cfa, Cfb",NA,NA
+Mutamba,MUT_2,Vigna unguiculata,Cowpea,Fabaceae,Introduced from wider Africa,Vigna unguiculata,Vigna unguiculata,Cowpea,FALSE,FALSE,"Aw; Af, Am; BSh, BSk; Cfa, Cfb; Csa, Csb; Cwa, Cwb",0,2000
+Mutamba,MUT_2,Ziziphus zeyheriana,Dwarf buffalo-thorn,Rhamnaceae,Native subsistence plant,Ziziphus zeyheriana,Ziziphus zeyheriana,Dwarf buffalo-thorn,FALSE,FALSE,NA,NA,NA
+Mwenezi Farm,MF_11,Ficus ingens,NA,Moraceae,Native subsistence plant,Ficus ingens,Ficus combined,Fig,FALSE,FALSE,NA,NA,NA
+Mwenezi Farm,MF_5,Ficus,Fig,Moraceae,Native subsistence plant,Ficus,Ficus combined,Fig,FALSE,FALSE,NA,NA,NA
+Mwenezi Farm,MF_7,Vigna subterranea,Bambara groundnut,Fabaceae,Introduced from wider Africa,Vigna subterranea,Vigna subterranea,Bambara groundnut,FALSE,FALSE,"Aw; Csa, Csb",200,1400
+Ndondondwane,NDD_1,Grewia,Raisin bush,Malvaceae,Native subsistence plant,Grewia,Grewia,Raisin bush,FALSE,FALSE,NA,NA,NA
+Ndondondwane,NDD_1,Kedrostis,Wild cucumber,Cucurbitaceae,Native subsistence plant,Kedrostis,Kedrostis,Wild cucumber,FALSE,FALSE,NA,NA,NA
+Ndondondwane,NDD_1,Sclerocarya birrea subsp. afra,Marula,Anacardiaceae,Native subsistence plant,Sclerocarya birrea subsp. afra,Sclerocarya birrea subsp. afra,Marula,FALSE,FALSE,"Aw; Af, Am; BSh, BSk; Csa, Csb",NA,NA
+Ndondondwane,NDD_10,Sorghum,Sorghum,Poaceae,Introduced from wider Africa,Sorghum bicolor,Sorghum combined,Sorghum,FALSE,FALSE,NA,NA,NA
+Ndondondwane,NDD_2,Grewia,Raisin bush,Malvaceae,Native subsistence plant,Grewia,Grewia,Raisin bush,FALSE,FALSE,NA,NA,NA
+Ndondondwane,NDD_2,Sclerocarya birrea subsp. afra,Marula,Anacardiaceae,Native subsistence plant,Sclerocarya birrea subsp. afra,Sclerocarya birrea subsp. afra,Marula,FALSE,FALSE,"Aw; Af, Am; BSh, BSk; Csa, Csb",NA,NA
+Ndondondwane,NDD_4,Cenchrus americanus,Pearl millet,Poaceae,Introduced from wider Africa,Cenchrus americanus,Cenchrus americanus,Pearl millet,FALSE,FALSE,"Aw; Af, Am; BWh, BWk; BSh, BSk; Cfa, Cfb; Csa, Csb; Cwa, Cwb",0,1800
+Ndondondwane,NDD_4,Grewia,Raisin bush,Malvaceae,Native subsistence plant,Grewia,Grewia,Raisin bush,FALSE,FALSE,NA,NA,NA
+Ndondondwane,NDD_4,Mollugo,Carpetweed,Molluginaceae,Native subsistence plant,Mollugo,Mollugo,Carpetweed,FALSE,FALSE,NA,NA,NA
+Ndondondwane,NDD_4,Sclerocarya birrea subsp. afra,Marula,Anacardiaceae,Native subsistence plant,Sclerocarya birrea subsp. afra,Sclerocarya birrea subsp. afra,Marula,FALSE,FALSE,"Aw; Af, Am; BSh, BSk; Csa, Csb",NA,NA
+Ndondondwane,NDD_6,Parinari,Mobola plum,Chrysobalanaceae,Native subsistence plant,Parinari,Parinari,Mobola plum,FALSE,FALSE,NA,NA,NA
+Ndondondwane,NDD_6,Sclerocarya birrea subsp. afra,Marula,Anacardiaceae,Native subsistence plant,Sclerocarya birrea subsp. afra,Sclerocarya birrea subsp. afra,Marula,FALSE,FALSE,"Aw; Af, Am; BSh, BSk; Csa, Csb",NA,NA
+Ndondondwane,NDD_7,Grewia,Raisin bush,Malvaceae,Native subsistence plant,Grewia,Grewia,Raisin bush,FALSE,FALSE,NA,NA,NA
+Ndondondwane,NDD_7,Sclerocarya birrea subsp. afra,Marula,Anacardiaceae,Native subsistence plant,Sclerocarya birrea subsp. afra,Sclerocarya birrea subsp. afra,Marula,FALSE,FALSE,"Aw; Af, Am; BSh, BSk; Csa, Csb",NA,NA
+Ndondondwane,NDD_8,Sclerocarya birrea subsp. afra,Marula,Anacardiaceae,Native subsistence plant,Sclerocarya birrea subsp. afra,Sclerocarya birrea subsp. afra,Marula,FALSE,FALSE,"Aw; Af, Am; BSh, BSk; Csa, Csb",NA,NA
+Ndondondwane,NDD_9,Amaranthus,Amaranth,Amaranthaceae,Native subsistence plant,Amaranthus,Amaranthus,Amaranth,FALSE,FALSE,NA,NA,NA
+Nebraska Ranch,NR_1,Helianthus annuus,Sunflower,Asteraceae,Introduced from outside Africa,Helianthus annuus,Helianthus annuus,Sunflower,TRUE,FALSE,"Aw; BSh, BSk; Cfa, Cfb; Csa, Csb; Cwa, Cwb; Cfb, Cfc; Dfa, Dfb, Dsa, Dsb; Dfa, Dfb, Dfc; Dwa, Dwb, Dwc",NA,NA
+Nebraska Ranch,NR_1,Vigna unguiculata,Cowpea,Fabaceae,Introduced from wider Africa,Vigna unguiculata,Vigna unguiculata,Cowpea,FALSE,FALSE,"Aw; Af, Am; BSh, BSk; Cfa, Cfb; Csa, Csb; Cwa, Cwb",0,2000
+Schroda,SCH_1,Adansonia digitata,Baobab,Malvaceae,Introduced from wider Africa,Adansonia digitata,Adansonia digitata,Baobab,FALSE,FALSE,"Aw; BSh, BSk",NA,NA
+Schroda,SCH_1,Cenchrus americanus,Pearl millet,Poaceae,Introduced from wider Africa,Cenchrus americanus,Cenchrus americanus,Pearl millet,FALSE,FALSE,"Aw; Af, Am; BWh, BWk; BSh, BSk; Cfa, Cfb; Csa, Csb; Cwa, Cwb",0,1800
+Schroda,SCH_1,Citrullus,Wild watermelon,Cucurbitaceae,Native subsistence plant,Citrullus,Citrullus,Wild watermelon,FALSE,FALSE,NA,NA,NA
+Schroda,SCH_1,Sclerocarya birrea,Marula,Anacardiaceae,Native subsistence plant,Sclerocarya birrea,Sclerocarya birrea,Marula,FALSE,FALSE,"Aw; Af, Am; BSh, BSk; Csa, Csb",NA,NA
+Schroda,SCH_1,Sorghum,Sorghum,Poaceae,Introduced from wider Africa,Sorghum bicolor,Sorghum combined,Sorghum,FALSE,FALSE,NA,NA,NA
+Schroda,SCH_1,Vigna radiata,Mung bean,Fabaceae,Introduced from outside Africa,Vigna radiata,Vigna radiata,Mung bean,FALSE,FALSE,"Aw; Cfa, Cfb",NA,NA
+Schroda,SCH_1,Vigna unguiculata,Cowpea,Fabaceae,Introduced from wider Africa,Vigna unguiculata,Vigna unguiculata,Cowpea,FALSE,FALSE,"Aw; Af, Am; BSh, BSk; Cfa, Cfb; Csa, Csb; Cwa, Cwb",0,2000
+Schroda,SCH_1,Xanthocercis zambesiaca,Nyala tree,Fabaceae,Native subsistence plant,Xanthocercis zambesiaca,Xanthocercis zambesiaca,Nyala tree,FALSE,FALSE,NA,NA,NA
+Scott's Cave,SCC_1,Amaranthus cruentus,Purple amaranth,Amaranthaceae,Native subsistence plant,Amaranthus cruentus,Amaranthus cruentus,Purple amaranth,FALSE,FALSE,"Aw; Af, Am; Cfa, Cfb; Csa, Csb; Cwa, Cwb",NA,NA
+Scott's Cave,SCC_1,Dioscorea,Wild yam,Dioscoreaceae,Native subsistence plant,Dioscorea,Dioscorea,Wild yam,FALSE,FALSE,NA,NA,NA
+Scott's Cave,SCC_1,Schotia afra var. afra,Karoo boer-bean,Fabaceae,Native subsistence plant,Schotia afra var. afra,Schotia afra var. afra,Karoo boer-bean,FALSE,FALSE,NA,NA,NA
+Scott's Cave,SCC_2,Schotia afra var. afra,Karoo boer-bean,Fabaceae,Native subsistence plant,Schotia afra var. afra,Schotia afra var. afra,Karoo boer-bean,FALSE,FALSE,NA,NA,NA
+Sehonghong,SEH_1,Diospyros,Jackal-berry,Ebenaceae,Native subsistence plant,Diospyros,Diospyros,Jackal-berry,FALSE,FALSE,NA,NA,NA
+Shongweni,SHO_1,Cenchrus americanus,Pearl millet,Poaceae,Introduced from wider Africa,Cenchrus americanus,Cenchrus americanus,Pearl millet,FALSE,FALSE,"Aw; Af, Am; BWh, BWk; BSh, BSk; Cfa, Cfb; Csa, Csb; Cwa, Cwb",0,1800
+Shongweni,SHO_1,Eleusine coracana,Finger millet,Poaceae,Introduced from wider Africa,Eleusine coracana,Eleusine coracana,Finger millet,FALSE,FALSE,"Aw; BWh, BWk; BSh, BSk; Cfa, Cfb; Csa, Csb; Cwa, Cwb",0,2500
+Shongweni,SHO_2,Eleusine coracana,Finger millet,Poaceae,Introduced from wider Africa,Eleusine coracana,Eleusine coracana,Finger millet,FALSE,FALSE,"Aw; BWh, BWk; BSh, BSk; Cfa, Cfb; Csa, Csb; Cwa, Cwb",0,2500
+Shongweni,SHO_2,Lagenaria siceraria,Bottle gourd,Cucurbitaceae,Native subsistence plant,Lagenaria siceraria,Lagenaria siceraria,Bottle gourd,FALSE,FALSE,"Aw; Af, Am; BWh, BWk; BSh, BSk; Cfa, Cfb; Csa, Csb; Cwa, Cwb",NA,NA
+Shongweni,SHO_3,Sorghum,Sorghum,Poaceae,Introduced from wider Africa,Sorghum bicolor,Sorghum combined,Sorghum,FALSE,FALSE,NA,NA,NA
+Shongweni,SHO_4,Sorghum,Sorghum,Poaceae,Introduced from wider Africa,Sorghum bicolor,Sorghum combined,Sorghum,FALSE,FALSE,NA,NA,NA
+Silver Leaves,SL_1,Cenchrus americanus,Pearl millet,Poaceae,Introduced from wider Africa,Cenchrus americanus,Cenchrus americanus,Pearl millet,FALSE,FALSE,"Aw; Af, Am; BWh, BWk; BSh, BSk; Cfa, Cfb; Csa, Csb; Cwa, Cwb",0,1800
+Vryheid,VRY_1,Cenchrus americanus,Pearl millet,Poaceae,Introduced from wider Africa,Cenchrus americanus,Cenchrus americanus,Pearl millet,FALSE,FALSE,"Aw; Af, Am; BWh, BWk; BSh, BSk; Cfa, Cfb; Csa, Csb; Cwa, Cwb",0,1800
+Vryheid,VRY_1,Chenopodium,Goosefoot,Amaranthaceae,Native subsistence plant,Chenopodium,Chenopodium,Goosefoot,FALSE,FALSE,NA,NA,NA
+Vryheid,VRY_1,Grewia,Raisin bush,Malvaceae,Native subsistence plant,Grewia,Grewia,Raisin bush,FALSE,FALSE,NA,NA,NA

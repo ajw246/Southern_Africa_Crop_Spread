@@ -1,0 +1,38 @@
+site_name,country,n_samples,reason
+Nqoma,Botswana,1,no usable date
+Toteng,Botswana,1,recorded phase '1800-present' lies outside 500 BCE-1500 CE
+Mbewe ya Mitengo,Malawi,24,age estimate outside window (bins: AD_1501_to_2000)
+Leopard Cave,Namibia,11,C14 date too imprecise (overlaps 3 bins (>100yr each))
+Balerno Main Shelter,South Africa,2,age estimate outside window (bins: AD_1501_to_2000); age estimate too imprecise (overlaps 3 bins (>100yr each))
+Collingham Shelter,South Africa,1,no usable date
+Driel,South Africa,1,no usable date
+Highlands,South Africa,1,no usable date
+Mapungubwe,South Africa,1,no usable date
+Maqonqo,South Africa,1,no usable date
+Mauermanshoek,South Africa,1,no usable date
+Mbabane Shelter,South Africa,1,no usable date
+Mgede,South Africa,1,no usable date
+Mhlwazini,South Africa,1,no usable date
+Mzinyashana,South Africa,1,no usable date
+Nkupe,South Africa,1,no usable date
+Rooikrans,South Africa,1,no usable date
+Roosfontein,South Africa,1,no usable date
+SK17,South Africa,1,no usable date
+Strathalan A,South Africa,1,no usable date
+Strathalan B,South Africa,1,no usable date
+Tandjesberg,South Africa,1,no usable date
+"Tienfontein 2,4A&7",South Africa,1,no usable date
+Twyfelpoort,South Africa,1,no usable date
+Westbury,South Africa,1,no usable date
+eSinhlonhlweni,South Africa,1,no usable date
+iNkholimahashi,South Africa,1,no usable date
+Isamu Pati,Zambia,1,no usable date
+Matobo,Zambia,1,no usable date
+Bambata Cave,Zimbabwe,16,age estimate too imprecise (span 1900 yr >= 1100 cap); no usable date; recorded phase '1800-present' lies outside 500 BCE-1500 CE
+Cave of Bees,Zimbabwe,6,no usable date
+Mtanye,Zimbabwe,12,no usable date
+Muchekayawa,Zimbabwe,1,age estimate outside window (bins: AD_1501_to_2000)
+Nswatugi Cave,Zimbabwe,14,age estimate outside window (bins: pre_500_BC); age estimate outside window (point in pre_500_BC); recorded phase '1800-present' lies outside 500 BCE-1500 CE
+Pomongwe Cave,Zimbabwe,23,no usable date; recorded phase '1800-present' lies outside 500 BCE-1500 CE
+The Blue Jay/ Bunting Close site,Zimbabwe,1,no usable date
+Ziwa,Zimbabwe,4,age estimate outside window (bins: AD_1501_to_2000); age estimate too imprecise (overlaps 3 bins (>100yr each)); no usable date; recorded phase '1800-present' lies outside 500 BCE-1500 CE

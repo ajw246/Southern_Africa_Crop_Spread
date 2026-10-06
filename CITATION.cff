@@ -1,0 +1,66 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite both the software and the paper it accompanies."
+title: "Tracing the piecemeal spread of crops into southern Africa: figure code and data"
+abstract: >-
+  R code and supporting data reproducing the main-text and supplementary
+  figures of a study of archaeobotanical evidence for the arrival of introduced
+  crops in southern Africa between 500 BCE and 1500 CE, including the data
+  wrangling and the chronological rules that place each sample in a 500-year
+  window.
+type: software
+authors:
+  - family-names: Williams
+    given-names: "Alice J."
+    affiliation: "Research Laboratory for Archaeology and the History of Art, School of Archaeology, University of Oxford, Oxford, OX1 3QY, UK"
+  - family-names: Jones
+    given-names: "Mica B."
+    affiliation: "Research Laboratory for Archaeology and the History of Art, School of Archaeology, University of Oxford, Oxford, OX1 3QY, UK"
+  - family-names: Kapumha
+    given-names: Russell
+    affiliation: "Research Laboratory for Archaeology and the History of Art, School of Archaeology, University of Oxford, Oxford, OX1 3QY, UK"
+  - family-names: Charles
+    given-names: Michael
+    affiliation: "School of Archaeology, University of Oxford, Oxford, OX1 2PG, UK"
+  - family-names: Bogaard
+    given-names: Amy
+    affiliation: "School of Archaeology, University of Oxford, Oxford, OX1 2PG, UK"
+  - family-names: Chirikure
+    given-names: Shadreck
+    affiliation: "Research Laboratory for Archaeology and the History of Art, School of Archaeology, University of Oxford, Oxford, OX1 3QY, UK"
+# TODO on acceptance: uncomment and set to the public repository URL.
+# Left commented out because the CFF schema requires a real URL here, and a
+# placeholder makes GitHub reject the whole file instead of rendering the
+# "Cite this repository" button.
+# repository-code: "https://github.com/OWNER/REPO"
+keywords:
+  - archaeobotany
+  - southern Africa
+  - crop dispersal
+  - radiocarbon chronology
+  - Iron Age
+# TODO on acceptance: add
+#   version, date-released, and a Zenodo doi: for the archived snapshot,
+#   and a license: field once the terms in LICENSE.md are fixed.
+preferred-citation:
+  type: article
+  title: "The spread of crops into southern Africa was a mosaic"
+  authors:
+    - family-names: Williams
+      given-names: "Alice J."
+      affiliation: "Research Laboratory for Archaeology and the History of Art, School of Archaeology, University of Oxford, Oxford, OX1 3QY, UK"
+    - family-names: Jones
+      given-names: "Mica B."
+      affiliation: "Research Laboratory for Archaeology and the History of Art, School of Archaeology, University of Oxford, Oxford, OX1 3QY, UK"
+    - family-names: Kapumha
+      given-names: Russell
+      affiliation: "Research Laboratory for Archaeology and the History of Art, School of Archaeology, University of Oxford, Oxford, OX1 3QY, UK"
+    - family-names: Charles
+      given-names: Michael
+      affiliation: "School of Archaeology, University of Oxford, Oxford, OX1 2PG, UK"
+    - family-names: Bogaard
+      given-names: Amy
+      affiliation: "School of Archaeology, University of Oxford, Oxford, OX1 2PG, UK"
+    - family-names: Chirikure
+      given-names: Shadreck
+      affiliation: "Research Laboratory for Archaeology and the History of Art, School of Archaeology, University of Oxford, Oxford, OX1 3QY, UK"
+  # TODO on acceptance: journal, year, volume, pages, doi.
